@@ -1,0 +1,5523 @@
+id,stop_name
+1,Forest Office Road
+2,Kusalkar Putala
+3,Tower Line
+4,Nehrunagar Depot
+5,Jagtap Chowk
+6,Bhosalevasti Nagar Road
+7,Kirkatwadi Phata
+8,Dhayari Phata
+9,Vadhu Bk
+10,Masulkar Colony
+11,Bedekar Ganpati Mandir
+12,Bhandarkar Road
+13,Budhrani Hospital
+14,Kulkarni Petrol Pump
+15,Maruti Mandir Vajewadi
+16,Fatima Nagar Wanowrie
+17,Trimurti Hall
+18,Sandesh Model Colony
+19,D2 Circle
+20,Sharwari Complex
+21,Jyoti English School
+22,Kedarinagar
+23,Shaniwarwada
+24,Chaudharivasti Nagar Road
+25,Durvankur Bungalow
+26,Pradhikaran Police Chowky
+27,Gavkos Maruti
+28,Kemsewadi Shala
+29,Tulsi Chemicals
+30,Yerawada
+31,Dattawadi Kasarsai
+32,Chintamani Society
+33,Sindhunagar
+34,Nashik Phata
+35,Pimpavali Phata
+36,Ghavtenagar
+37,Raviraj Residency
+38,Kumbare Park
+39,Vaiduwadi
+40,Autadewadi Phata
+41,Mangdewadi Petrol Pump
+42,Vitbhatti Charholi
+43,Rautnagar
+44,CIRT
+45,Ghotawade Road Petrol Pump
+46,Bahiratwadi
+47,Divegaon
+48,Loni Station
+49,Talab Company
+50,Tangde Bandhumala
+51,MM School
+52,Shindenagar Mharunji
+53,Agam Mandir
+54,Annadhanya Godam
+55,Samarth Vidyalay
+56,Devi Indrayani Society
+57,Homegaurd
+58,Someshwarwadi
+59,Pirangut
+60,Poultry Farm Agalambe
+61,Gaymukh
+62,Spicer India Company
+63,Dattawadi
+64,Trinity College
+65,Shitolemala
+66,Manoharnagar
+67,PL Deshpande Udyan
+68,Kalamkarvasti
+69,Akole Bus Stop
+70,Ambegaon Pathar Corner
+71,Krushi Utpanna Bazar Samiti
+72,Pooja Hospital
+73,Sangvi
+74,Pravin Mehendi
+75,Rajmudra Society
+76,Ganesh Park
+77,Gokhalenagar Shala
+78,Landewadi
+79,Landgemala
+80,Methodist Church
+81,Matalwadi Khanapur
+82,Karachi Chowk
+83,Holkar Pul Corner
+84,Kharadi Bypass
+85,Mile Dagad Kramank 23 Nagar Road
+86,NIBM Road
+87,Hinjawadi Petrol Pump
+88,Ambegaon Phata Lavasa Road
+89,Kiwalegaon
+90,Tapkirnagar Rahatni
+91,Poultry Farm Anisha
+92,Model Colony
+93,Inam Aali
+94,Mangdenagar
+95,Shiwarkar Garden
+96,Power House Fursungi
+97,Shindevasti Burkegaon
+98,Indraprabha
+99,Dnyaneshwar Society
+100,Sai Palace
+101,Vadacha Stop
+102,Shiroli
+103,Daulat Garden
+104,Bhagvatinagar
+105,Osade Phata
+106,Rajaram Pul Corner
+107,Handewadigaon
+108,Sambhaji Chowk
+109,HRA Reliance
+110,Bhosalevasti Uruli Kanchan
+111,Gujarwadi
+112,Sadhana Vidyalay
+113,Nehrunagar Corner
+114,Khadakwasla Dharan Stores
+115,Mhalunge Phata Chakan
+116,Bhandari Company
+117,Dandekar Pul
+118,CNG Pump Corner
+119,Lakshminagar Corner
+120,Yadavvasti Prayagdham
+121,Bankarvasti
+122,Anand Ashram
+123,Anand Nagar Sinhagad Road
+124,Donajegaon Phata
+125,BU Bhandari Showroom
+126,Munjabavasti
+127,Mohammadwadigaon
+128,Mohammadwadi Shala
+129,Khed Shivapur
+130,Mangdewadi Phata
+131,Wireless Office
+132,Kalyani Forge
+133,Toll Naka
+134,Inamdarvasti Rahutwadi
+135,Vipraj Company
+136,Santkrupa Fabrication
+137,Ganpati Mandir Sambhajinagar
+138,Sakal Office Vadaki
+139,Samadhi Mandir
+140,Pune Station
+141,Kasba Peth Police Chowky
+142,Kodhanpur Phata
+143,Varvegaon
+144,Mugawade
+145,Ghat Utar Valan
+146,kohima line
+147,Labour Office
+148,Bham
+149,Cheladi Phata
+150,Vadgaonmawal Phata
+151,Vitthal Mandir Mhasolkar
+152,Rakshevasti
+153,Vardade Phata
+154,Royal Park
+155,Boratevasti Nasik Road
+156,Dattanagar Katraj Road
+157,Vasantbaug Chowk
+158,Kadus Phata
+159,Power House Padmawati
+160,Osade Phata
+161,Kendriya Vidyalay Lohgaon
+162,Hadapsargaon
+163,Jagdhmba Hotal
+164,Indoorance System Chakan Mhalunge
+165,Kendriya Vidyalay Yerawada
+166,Parvatigaon
+167,pumpung Station Medi Point
+168,Santnagar
+169,Vallabhnagar ST Stand
+170,Sai Washing Center
+171,Hill Hila
+172,Dattamandir Narhe Road
+173,Gokulnagar Katraj Kondhwa Road
+174,Petrol Pump Dhanora
+175,Satavvasti
+176,Mile Dagad Kramank 9
+177,Santoshi Mata Mandir Alandi
+178,NCL Colony
+179,Gurukrupa Hospital
+180,Mundhwa Shala
+181,Kondhwa Bk
+182,Pulachiwadi
+183,Satavvasti
+184,Kamala Nehru Hospital
+185,Sindhunagar
+186,Ksb Chowk
+187,Kusgaon
+188,Vanwadi Corner
+189,Kadvasti Undri
+190,Hanumannagar
+191,Swarajnagari
+192,Yamunanagar Corner
+193,Moi Phata
+194,Talyacha Matha
+195,Shitalbaug
+196,Deccan Gymkhana
+197,Jakat Naka Saswad
+198,Inamdarvasti Solapur Road
+199,Khadi Machine Hinjawadi Road
+200,Kalimata Mandir
+201,Shasakiya Vishramgruha Paudgaon
+202,Mandharevasti
+203,Nehrunagar
+204,Shivnari Chowk Baner
+205,Vadkinala
+206,Ingalevasti
+207,Detwayalar Company
+208,Ganeshnagar Dhayari
+209,Saibaba Mandir Karvenagar
+210,Sane Chowk
+211,Nirma Company
+212,Ambedkarnagar Baner
+213,Anandnagar Marketyard
+214,ARDL Gate
+215,Army College
+216,West Wing Society
+217,Ganganagar Saswad Road
+218,Rajmudra Society
+219,NDA Gol Market
+220,Vanaj Corner
+221,Burma Shell
+222,Ghulevasti Manjari
+223,Kasarsai Karkhana Phata
+224,Mominpura
+225,Vadgaon BK Highway
+226,Bahirwade Kridangan
+227,Nanded City
+228,Suskhind Phata Sus Road
+229,Mile Dagad Kramank 21 Diveghat
+230,Surgeon Quarters
+231,Jilha Parishad
+232,Sortapwadi
+233,Shanipar
+234,Kutalevasti
+235,Peth
+236,Siddhivinayak Vastu
+237,Gandharvanagari
+238,ARDL Office
+239,Kendurgaon
+240,Shikshaknagar
+241,Sai Chowk Navi sangvi
+242,Kale Colony
+243,PCP College Chowk
+244,General Motors
+245,Girls Hostel
+246,Nandgude Shala
+247,Shitaladevi Chowk Pimplegurav
+248,Keshavnagar Chowk
+249,Vitthal Mandir Hadapsar
+250,Newale Chowk
+251,Goodluck Chowk
+252,Jilha Parishad Shala
+253,Vipraj Company
+254,Anand Park
+255,Dhangarvasti
+256,Vetalbaba Chowk
+257,Patrakarnagar
+258,Tolani Institute
+259,Daulatnagar Dhankawadi Road
+260,Sant Gadge Maharaj Shala
+261,United Western Sabhagrugha
+262,MSB Pumping Station
+263,Sangvi Phata
+264,Mandai Stand
+265,Jawalgaon
+266,Shindevasti Burkegaon
+267,Kasarsai
+268,Manajinagar
+269,Shreeman Society
+270,Saibaba Mandir Materewadi
+271,Ma Na Pa
+272,Gajanan Maharaj Mandir Alandi Road
+273,Spicer College
+274,Udaybaug
+275,Malwadi Markal Road
+276,Kalukh Shetmala
+277,Railway Gate Uralikanchan
+278,Shinde Chhatri
+279,Kondhwa Kh
+280,Malkhed
+281,Chutkevasti
+282,Gorhe Bk Shala
+283,Ganeshmala
+284,Jyoti English School
+285,Shreenagar
+286,Kousarbaug
+287,MM School
+288,Kamala Nehru Hospital
+289,Vajewadi Chaufula
+290,Sahwas Corner
+291,Mahindra Company
+292,Mundhwa Gaon
+293,Sant Company
+294,Station Family Camp
+295,Ingale Hospital
+296,Salve Garden
+297,Mandvi Kh
+298,Mundhwagaon
+299,Salve Garden
+300,Pawarvasti Chikhali Road
+301,Zendewadi
+302,Kawdewadi
+303,Shatrunjay Mandir
+304,Vasantbaug
+305,U Co Bank
+306,Hotel Rajyog
+307,Bhairav Nagar
+308,Juna Pulgate
+309,Bavdhangaon
+310,Dhanori Gaon
+311,Dhanori Shala
+312,Cipla Center
+313,Gokul Nagar
+314,Bhumkarnagar
+315,Urawdegaon
+316,Holkar Pool
+317,Santnagar MIDC Police Station
+318,Tapkirnagar Moshi Road
+319,Kamal Park
+320,Gopi Chal
+321,Kokate Aali
+322,Baner Phata
+323,Kudje Shala
+324,Sathe Biscuit
+325,Sanewadi
+326,Sathe Nagar
+327,Ranwarevasti
+328,Sundarban
+329,Swargate
+330,Oskar Company
+331,Abhinav College
+332,Shindevasti Mundhwa
+333,Manikchand Dhariwal Sinhagad College
+334,Dattawadi
+335,Fergusson College
+336,Dyaneshwer paduka
+337,Rajendranagar
+338,SNZ Chemical Company
+339,Bhairav Nagar
+340,Ramanbaug Shala
+341,Dagdi Khaan
+342,Badhevasti
+343,Rajas Society Corner
+344,Gokul Nagar
+345,Jilha Parishad
+346,North Len
+347,Holkar Pool
+348,Ladies Hostel
+349,ITI Saswad Road
+350,Nehru Stadium
+351,Shivtarwadi Phata
+352,Madhav Nagar
+353,Mahadevnagar Hingne
+354,Bhairoba Pumping Station
+355,Modern High School
+356,Dattamandir Shivapurgaon
+357,Govind Garden Chowk
+358,YCM Hospital
+359,Khadi Machine Katraj Kondhwa Road
+360,Jijamata Chowk
+361,Dhankawadi
+362,Godambevasti
+363,Sathe Biscuit
+364,Mitti Ka Ghar
+365,ITI Aundh
+366,Torna garden
+367,Darshan Hall
+368,Godown Katraj Kondhwa Road
+369,Rajaram Pul Corner
+370,Gajanan Maharajnagar
+371,Ramnagari
+372,Ambedkar Society
+373,Sant Dharmaji Samadhi
+374,Deccan College
+375,MES Canteen IAT
+376,Homeguard
+377,PAndT Colony
+378,Mental Hospital
+379,Bhondvevasti Nagar Road
+380,Phule Nagar
+381,5 Wa Mile
+382,Ambedkar Society
+383,Deccan College
+384,Dehuroad Police Lane
+385,Mental Hospital
+386,Phule Nagar
+387,Prachi Apartment
+388,Panyachi Taki
+389,Rihegaon
+390,Panyachi Taki
+391,Sai Corner
+392,Homeguard
+393,Parvati Gaon
+394,Tamhane Chowk
+395,Karachi Chowk
+396,Mohitevasti
+397,Police Chowky
+398,Punawale
+399,Ganesh Nagar Corner
+400,Kate Patil Chowk
+401,Dattawadi Mhasoba Chowk
+402,Dnyanesh Society
+403,Maruti Mandir Wes
+404,Dighi Gaon
+405,Morwadi
+406,Lavlegaon
+407,Shewalwadi Rehe
+408,Kamgarnagar
+409,Police Vasahat Gokhalenager
+410,Shivtharwadi
+411,Vikasnagar
+412,PMT Chowk Bhosari
+413,Jagtap Dairy
+414,Dhamalevasti Mundhwa
+415,Navin S T Stand
+416,Shivshankar Super Market
+417,Pimplesaudagar Chowk
+418,Fujitsu Company
+419,Vitthal Baba Darga
+420,Protacto Company
+421,Shivnagar
+422,Kate Patil Chowk
+423,Gavhanevasti
+424,Fadtarevasti
+425,Maruti Mandir Vishalnagar
+426,Pisoligaon
+427,Jadhavwadi Phata Chikhali
+428,Poultry Farm Anisha
+429,Rajwade Bungalow
+430,Udaybaug
+431,Gaikwadvasti Nandegaon
+432,Diamond Wach Company
+433,Mandvi Bk
+434,Mantarwadi
+435,Hagawanevasti
+436,Sasanenagar
+437,Ganeshnagar
+438,Jeevannagar Hospital
+439,Ramtekdi
+440,Ganganagar Pradhikaran
+441,Pune Station
+442,Wadia Bungalow
+443,Sangamwadi phata
+444,Kendriya Vidyalaya
+445,Pawarvasti Chikhali Road
+446,Mariaai Mandir
+447,Optonica Company
+448,Thubevasti
+449,Suskhind Phata Sus Road
+450,Railway Gate Number 1
+451,Bahiratwadi
+452,Tingre Nagar Grampanchayat
+453,Vidyanagar
+454,Yerwada Gaon
+455,Mahadev Mandir Pimple Saudagar
+456,ST Stand Indori
+457,Netaji High School
+458,Bidi Kamgar Vasahat
+459,Mile Dagad Kramank 19 Diveghat
+460,Warje Malwadi
+461,Mayurnagari
+462,Shivnagar
+463,Durvankur Lawns
+464,Chimbli Phata
+465,Bhosari
+466,Kumbharvasti Pashan
+467,Magazine
+468,Deep Bungalow
+469,Shastrinagar Nagar Road
+470,Bhaurao Patil Chowk
+471,Mira Society
+472,Anandnagar Sinhagad Road
+473,PC Pole Company
+474,Bombay Garage
+475,Gokul Hotel
+476,Matalwadi Khanapur
+477,Tapkir nagar
+478,Rajiv Gandhinagar
+479,Ashoknagar Rangehills
+480,Dabhade Vasti
+481,Naigaon Phata
+482,Pooja Hospital
+483,R&D colony
+484,Panyachi Taki Kendur
+485,Indrayani Vihar
+486,Mhaskewasti
+487,Parade ground
+488,Undrigaon
+489,Ganesh Nagar Corner
+490,NCL Hostel
+491,Alhatvasti
+492,Poultry Farm Darshan
+493,Parande Nagar
+494,Chaudhari Dhaba
+495,Sanakta Company
+496,Ramnagar Rahatni
+497,Shitaladevi Chowk Pimplegurav
+498,Bhagwat Mangal Karyalay
+499,Chudaman Talim
+500,KSB Chowk
+501,Ganeshnagari
+502,Anandnagar Marketyard
+503,Gokhalenagar Vasahat
+504,Dhangar Baba
+505,Mental Corner
+506,Kanifnath Society
+507,Thakur Vasti
+508,Durvankur Mangal Karyalay
+509,Bhondvevasti Ravet
+510,Shivam Industries
+511,Kondhur Phata
+512,Chintamaninagar Sasanenagar
+513,Gavhanevasti
+514,Mahindra Company
+515,Vadgaon Ghenand Shala
+516,Venutai Chavan College
+517,Khandoba Mandir
+518,Kedarinagar Chowk
+519,Shelgaon
+520,Poultry Farm Desai
+521,Eagle Company
+522,Upper Depot
+523,Wadebolhai
+524,Kondhwa Police Station
+525,Ganeshnagar Navlakh Umbre Road
+526,DP Road Corner
+527,Chinchwad Station
+528,Subhash Vidyalaya
+529,A Ward Office
+530,Bahulgaon
+531,Badadevasti
+532,Ganeshnagar
+533,Bharati Vidyapeeth
+534,Godown Gultekdi
+535,Judson Highschool
+536,Sangamwadi phata
+537,Kendriya Vidyalaya
+538,Gandhi Bhavan Phata
+539,Shivtirthnagar Corner
+540,Shindevasti Susgaon
+541,Mehandale Garage
+542,Sasoon Hospital
+543,Pandavnagar Senapati Bapat Road
+544,Bhau Patil Chowk
+545,Splender Country Club Gate Kramank
+546,Hud Company
+547,Tingre Nagar Grampanchayat shala
+548,Shivraj nagar
+549,Kendriya Vidyalay Dehu Road
+550,Vishrantwadi
+551,Khadakwasla Dharan
+552,Vaiduwadi
+553,Bidi Kamgar Vasahat
+554,Netaji High School
+555,Manikchand Dhariwal Sinhagad College
+556,Mukainagar
+557,Yerwada Gaon
+558,Ramnagar Pimplegurav
+559,Ruby Hall
+560,Vithai Warehouse
+561,Bhosari
+562,Lakshminagar Handewadi Road
+563,Maan
+564,Ksb Chowk
+565,Sadgurunagar
+566,Durvankur Lawns
+567,Magazine
+568,Vadgaonmawal Phata
+569,Potoba Mandir
+570,Punawale Phata
+571,Bombay Garage
+572,Devachi Uruli  Phata
+573,Bedekar Ganpati Mandir
+574,Chhajed Petrol Pump
+575,Khadakwadi Phata
+576,Mira Society
+577,Chaitanya Vidyalay
+578,Kasar Amboli
+579,Insurance Company
+580,Nehrunagar Corner
+581,Charoli Gaon
+582,Ramyanagari
+583,Dabhade Vasti
+584,Vataremala
+585,Tapkir nagar
+586,Kalubai Mandir Warve
+587,Kothrud Terminal
+588,Sutarwadi Pashan
+589,Talegaon Khind
+590,Kondhwa Hospital
+591,Bharati Nagar
+592,Shindevasti Mundhwa
+593,Paud Phata
+594,Mahila Mandal
+595,Mohol Vidyalay
+596,Optonica Company
+597,Kudje Shala
+598,Jyotibanagar
+599,Akurdi Chowk
+600,Alandi Phata
+601,Sinhgad Hotel
+602,Subhanshah Darga
+603,Ramanbaug Shala
+604,Suskhind Phata Sus Road
+605,Central Restaurant
+606,Vadkinala
+607,Kalpataru Society Pimplegurav
+608,Devachi Uruli  Phata
+609,Abhuyuday Bank
+610,Akurdi Chowk
+611,Ambience Hotel
+612,Aswee Trading Company
+613,Chandkhed
+614,Dairy Farm
+615,Kannda Lasun Sanshodhan Kendra
+616,Navsahayadri
+617,Sakalnagar
+618,Bharati Nagar
+619,Shell Petrol Pump
+620,Triveninagar
+621,Kacharevasti
+622,Saswad Road Corner
+623,Daulatnagar Mumbai Pune Bypass
+624,Naigaon Phata
+625,Pimprigaon
+626,Sakal Office Vadaki
+627,Tapkir Bungalow
+628,Kalyani Forge Mudhwa
+629,Ganganagar Pradhikaran
+630,Ghorpadi Shala
+631,Nakhatevasti
+632,Annasaheb Magar Vidyalay
+633,Chaudhari Dhaba
+634,Grand Hotel
+635,Peth
+636,Karnatak Highschool
+637,Kudalwadi
+638,Telco Hostel
+639,Panyachi Taki Undri
+640,Mukai chowk
+641,Mukai Chowk
+642,Rama Krushi Rasayan Karkhana
+643,Tapkirnagar Kalewadi
+644,Kanda Engineering Company
+645,Ravet Chowk
+646,Mordari Phata
+647,Bombay Garage
+648,Ravet Chowk
+649,Ma Na Pa  Nava pul
+650,Yamunanagar Corner
+651,Punawale Corner
+652,Aundh Hospital
+653,Deshpande Farm
+654,Punawale Corner
+655,Aundh Hospital
+656,Gulabnagar
+657,Shindevasti Susgaon
+658,HRA Reliance
+659,Khadki Station
+660,Poultry Farm Sangrun
+661,Ghotawadegaon
+662,Dairy Farm
+663,Dairy Farm
+664,Mile Dagad Kramank 21 Pirangutghat
+665,Dange Chowk
+666,Mahatma gandhi School
+667,Dalvivasti
+668,Kuruli Phata
+669,Jagtap Dairy
+670,Laxman Nagar
+671,Mundhwagaon Corner
+672,Shivraj Nagar
+673,Somatne Phata
+674,16 Number
+675,Lavlegaon
+676,Shivrajnagar
+677,16 Number
+678,Kalewadi Phata
+679,Chinchwad Station
+680,Prayagdham Ashram
+681,Rambaug
+682,Ravet Pumping Station
+683,Kusgaon Jilha Parishad Shala
+684,Bhondve Vasti
+685,Yelwadi
+686,DSK Vishwa
+687,Bhondve Vasti
+688,Range Hills Corner
+689,Kalyaninagar Pul
+690,Kateshwarwadi Phata
+691,Mehandale Garage
+692,Jagtap Dairy
+693,Kawadenagar
+694,Kalewadi Phata
+695,Navin Highway
+696,Rangehills Corner
+697,Tathawade
+698,Wakad Phata
+699,Cores Company
+700,Yerwada Post Office
+701,Simla Office/Shivaji Nagar
+702,Vitbhatti Shivtarwadi
+703,Engineering College
+704,Kanbe Phata
+705,Tathawade
+706,Chaufula
+707,Dange Chowk
+708,Wakad Phata
+709,Vimannagar Corner
+710,Kachara Depot Devachi Urali
+711,Kalyani Forge
+712,Khanapur
+713,Laxman Nagar
+714,Gaikwadvasti Nasik Road
+715,Canal
+716,Bhosalevasti Uruli Kanchan
+717,Pawar Vasti
+718,Chinchwad Station
+719,Gandhinagar
+720,Maruti Mandir Vishalnagar
+721,Pratiknagar
+722,Mahila Mandal
+723,Shikshaknagar
+724,Suyash Mangal Karyalay
+725,Pawarvasti Chikhali
+726,Loyala Highschool
+727,Dhanoragao
+728,Pawar vasti
+729,Hadapsar Gadital
+730,Nhavi Sandas
+731,Shane Paradise socity
+732,Shubham Mangal Karyalay
+733,Magar College
+734,Rupeenagar
+735,Shreekrushna Mandir
+736,Fursungi
+737,Amrai
+738,Bhagwatvasti
+739,Krushna Mandir Suncity
+740,Poultry Farm Deccan
+741,Ramnagar Bopkhel
+742,NDA Hospital
+743,Kolhewadi
+744,Ammunition Factory Road
+745,Dattakrupa Mangal Karyalay
+746,Marado Company
+747,Fatimanagar
+748,Judson Highschool
+749,Jakat Naka Mohammadwadi
+750,Vishwakarma
+751,Sangvi Phata
+752,Poultry Farm Saurabh
+753,Sangvi Phata
+754,Bhairavnath Mandir Chande
+755,Ramdas Maral
+756,Rakshak Chowk
+757,Rakshak Chowk
+758,Tadiwala Road
+759,M 23
+760,Farshi Karkhana
+761,Juna Motor Stand
+762,PC Pole Company
+763,Balewadigaon
+764,Limb Center
+765,Netajinagar
+766,Shahu Colony
+767,Pimpri Sandas
+768,Mahaveer Company
+769,Dnyaneshwar Society
+770,Sangvi Phata
+771,Dislevasti
+772,Factory Hospital
+773,Kalewadi Pump
+774,Vykentesh Colony
+775,Nehrunagar Corner
+776,Poultry Farm Trimurti
+777,Police Vasahat Gokhalenager
+778,Godown Katraj Kondhwa Road
+779,Mandharevasti
+780,Pashan Tale
+781,Poultry Farm Venkteshwara
+782,Sinhagad
+783,Chaitanya Sabhagruh
+784,Diamond  Miter Company
+785,Laxminagar Corner
+786,Lonkarvasti
+787,Lucky Farm
+788,Pulachiwadi
+789,Hirabaug
+790,Muncipal Dawakhana
+791,UP Hotel
+792,Hirabaug
+793,Bhairavnath Mandir Chande
+794,Chikhali
+795,Janakbaba Darga
+796,Vadgaon Sheri Phata
+797,ARDE Colony
+798,Lodha Hospital
+799,Pashan Naka Bus Stand
+800,Devi Link
+801,Dhayareshwar Industries
+802,Sai Chowk Navisangvi
+803,Manikbaug
+804,Moze Vidyalay Alandi Road
+805,Hinjawadi Jakat Naka Mumbai Road
+806,Shivtejnagar Chowk
+807,Shivnari Chowk Baner
+808,Insurance Company
+809,Appughar Corner
+810,Kundan Hotel
+811,Farm House Mulkhed
+812,Shelkevasti
+813,Chutkevasti
+814,Pimpri Court
+815,Karan Greens
+816,Santoshi Mata Mandir Alandi
+817,Vitthal Mandir Mhasolkar
+818,Bakwoulf Colony
+819,Bank Of India Dehuroad
+820,Bhandarkar Institute
+821,Ghata Khali
+822,Shindewadi Satara Road
+823,Shitolevasti Lavle
+824,Yewalewadi
+825,Vastu Udyog
+826,Jilha Parishad Shala
+827,MSB Pumping Station
+828,Pune Station
+829,Shiwne
+830,Ghodyachi Paga
+831,Holkarwadi
+832,Garden City
+833,Ovhalvasti
+834,Godown Katraj Kondhwa Road
+835,Warje
+836,Sai Corner
+837,Walhekarwadi Corner
+838,Shastrinagar Nagar Road
+839,Chaphekar Chowk
+840,Spine Road Chowk
+841,Power House Ghotawade
+842,Godambevasti
+843,Shahu Chowk
+844,Lagadmala
+845,Tapkirnagar Charholi
+846,Kalashankar
+847,Vijaynagar
+848,Vaddhara Bandhara
+849,Jadhavwadi Phata Chikhali
+850,Shubham Mangal Karyalay
+851,Kumbhar Wada
+852,Joona Hinjawadi Jakat Naka
+853,Shitolevasti Lavle
+854,Velu Phata
+855,Jamadarvasti
+856,Bhau Patil Chowk
+857,Tendulkarvasti
+858,P And T Colony
+859,Vadgaon Budruk Phata
+860,Kanifnath Society
+861,Agam Mandir Paytha
+862,Maruti Mandir Sambhajinagar
+863,COP Hostel
+864,Patilnagar
+865,Nigde Phata
+866,Neeta Park
+867,Someshwarwadi Phata
+868,Gadital
+869,Sadu Nanavasti
+870,Warpe Farm
+871,Phulgaon
+872,Bahuligaon
+873,Nehru stadium
+874,Gorhe Bk
+875,Mitramandal Sabhagraha
+876,Vadgaon BK Phata
+877,Dr Sayyad Dawakhana
+878,Shivapurwada
+879,Bharat English School
+880,Bahirwade Kridangan
+881,Ambegaon Phata
+882,Annapurna
+883,Arvi Phata
+884,Shivaji Maratha
+885,Dudulgaon
+886,Durgesh Mandir
+887,Elpro Company
+888,Prakash Chicken Center
+889,Uttamnagar
+890,Rama Krushi Rasayan Karkhana
+891,Rajesh Socity Corner
+892,Cipla Center
+893,Gaikwadvasti Nasik Road
+894,Bhilarewadi Kalyan
+895,Savitribai Phule Udyan
+896,Savitribai Phule Udyan
+897,Kaspate Chowk
+898,Power House Tulapur
+899,Kaspate Chowk
+900,Mankar Chowk
+901,Mankar Chowk
+902,Vitbhatti Nere
+903,Mont Vert Society
+904,Mont Vert Society
+905,Kusgaon
+906,MIDC Circle
+907,Wakad Chowk
+908,Brahma Chaitanya
+909,Wakad Chowk
+910,JCB
+911,Savatamali mandir
+912,MIDC Pimpri
+913,Savtamali Mandir
+914,Mordari Phata
+915,Mahadev Mandir Mehendale Garage
+916,Karve Nagar
+917,Lakudvasti
+918,Sangrun Phata
+919,Minilec Company
+920,Gavtevasti
+921,Kalewadi Phata
+922,Khadi Machine Gujarwadi
+923,Garisson Engineering
+924,VIT College Hostel
+925,Pradhikaran Police Chowky
+926,Ghanesh Peth
+927,Sathe Biscuit
+928,Chavannagar
+929,Digambar Marble
+930,Nehrunagar
+931,Arvi Phata
+932,PK Chowk
+933,Uruli Kanchan
+934,Narayaninagar
+935,Malyachamala
+936,Sadashiv Peth Haud
+937,Pawle Chowk
+938,Gruhaprakalp
+939,Master Bakery
+940,Trimurti Garden
+941,Mohammadwadigaon
+942,Jakat Naka Pisoli
+943,ST Stand Indori
+944,Ganesh Nagar
+945,Factory Hospital
+946,Ganesh Nagar
+947,Elpro Company
+948,Pradhikaran Police Chowky
+949,Ganeshnagar Talawade Road
+950,Shiroli
+951,Shivaji Maharaj Putla Dapodi
+952,IMD Colony
+953,Fuel Depot
+954,Girls Hostel
+955,Vitbhatti Prayagdham
+956,Dattamandir Marnewadi Road
+957,Mundhwa Gaon
+958,Kondhwa Dhawde
+959,Kondhwale Dairy
+960,Sane Chowk
+961,Shikshaknagar
+962,Sane Chowk
+963,Gorhe Kh
+964,Mhetre Vasti
+965,Mhetre Vasti
+966,Bungalow Number 116
+967,Ganga Village
+968,Mahadevnagar Manjari
+969,Radhika Society
+970,Dhayareswar Mandir
+971,Sasanenagar
+972,Benkar Vasti
+973,Ramnagari
+974,Benkarvasti
+975,Garmal
+976,Govind Mangal Karyalay
+977,Rautvasti
+978,Saipuram Corner
+979,Sayli Restaurant
+980,Vitbhatti Chande
+981,Gaarmal
+982,Rahatnigaon
+983,Gaarmal
+984,Sai Palace
+985,Ghorpadi Shala
+986,Laxmannagar
+987,Autadewadi Phata
+988,Aditya Garden City
+989,Aditya Hotel
+990,Purva Arcade
+991,Shadawal Baba Darga
+992,Shitaladevi Chowk Guruwarpeth
+993,Kemsewadi
+994,Peacock Garden
+995,Lagadmala
+996,Shivajinagar
+997,Hotel Sagar
+998,Harpalevasti Nhavi Sandas Road
+999,Dugad Farm
+1000,Kawdipat
+1001,Kirkatwadi
+1002,Dattakrupa Mangal Karyalay
+1003,Hariprasad Bungalow
+1004,Ma Na Pa Shala Wakad
+1005,JCB
+1006,Punawale
+1007,Trinity College
+1008,Karve Nagar
+1009,Karve Nagar
+1010,Sapras Post
+1011,Shubham Hotel
+1012,Gandhi Bhavan Phata
+1013,Balaji Park
+1014,Dapodi Mantri Niketan
+1015,Kothrud Stand
+1016,Kumar Park
+1017,Karve Putla
+1018,Jiveshwar Society
+1019,Ahiregaon Phata
+1020,Alhatvasti
+1021,Baner Phata Aundh Road
+1022,Gujrat Colony
+1023,Rasrang Sweet Corner
+1024,Rakshak Chowk
+1025,Bhandari Niwas
+1026,Ramoshiwadi
+1027,Parmarnagar
+1028,Shivaji Maharaj Putla Sasanenagar
+1029,Shree Industries
+1030,Mahabali Chowk
+1031,Sharwari Complex
+1032,Kakdevasti Prayagdham
+1033,Thorve School
+1034,Vitbhatti Vikasnagar
+1035,Siporex Company Main Gate
+1036,Gokul Hotel
+1037,Karve Bungalow
+1038,Waghere College
+1039,Motherson Company
+1040,Bhandarkar Road
+1041,Rangehills Post Office
+1042,Aynalvasti
+1043,Garden City
+1044,Alaka Theatre
+1045,Hanuman Mandir Indori
+1046,Shane Paradise socity
+1047,Murkutevasti
+1048,Ranwarevasti
+1049,Ganjave Chowk
+1050,Vaishnavi Collection
+1051,Ghotawadegaon
+1052,Rajendranagar corner
+1053,Purva Arcade
+1054,Rajendranagar corner
+1055,Deccan Gymkhana
+1056,Ramkrishna Math
+1057,Water Purification centre
+1058,NDA Hospital
+1059,Water Purification centre
+1060,Ganesh Mala
+1061,Kolhewadi
+1062,Vitthalwadi Jakat Naka
+1063,Morwadi Corner
+1064,Wakad Chowk
+1065,Kalbhorvasti
+1066,Pimplenilakh Shala
+1067,Yerawada Press
+1068,Poultry Farm
+1069,Dhayari Maruti Mandir
+1070,Mitra Mandal Sabhagruha
+1071,Servants Quarters
+1072,Avsarwadi
+1073,Dange Chowk
+1074,Daulatnagar Mumbai Pune Bypass
+1075,Dhumewadi
+1076,Mutton Market rangehills
+1077,Dnyaneshwar Paduka Chowk
+1078,Burkegaon
+1079,Kalewadi
+1080,Vadgaon Phata
+1081,Mandai Stand
+1082,Vadgaon Phata
+1083,Sai Chowk Pimple Saudagar
+1084,Rashmi Apartment
+1085,Military Hospital Khadki
+1086,Sai Chowk Pimple Saudagar
+1087,GF Filters
+1088,Bhosari Gaon
+1089,Mulkhed
+1090,Bhosari Gaon
+1091,Mangdewadi Petrol Pump
+1092,Vitbhatti Pashan
+1093,Posco Company
+1094,Tale Male
+1095,Azadnagar Kothrud
+1096,shitalbaug
+1097,Vataremala
+1098,Talegaon Nagarparishad
+1099,Swargate Depo
+1100,Vedant Dairy
+1101,Maruti Mandir Dattanagar
+1102,Velu Phata
+1103,Bungalow Number 105
+1104,Dhawdevasti
+1105,Kalpataru Society
+1106,Kalpataru Society
+1107,Mental Hospital
+1108,Waghjai Mandir
+1109,Javalkar Nagar
+1110,Ingalevasti
+1111,Javalkar Nagar
+1112,Kate Patil Chowk
+1113,Sant Tukaramnagar
+1114,Kate Patil Chowk
+1115,Pandavnagar Pashan
+1116,Raje Shivajinagar Phata
+1117,Govind Yashada Chowk
+1118,"Vishwashanti Colony,PK Chowk"
+1119,NIBM Corner
+1120,"Vishwashanti Colony,PK Chowk"
+1121,Smashanbhumi
+1122,"Rose Land, Nisarga  Nirmiti Society"
+1123,"Rose Land, Nisarga  Nirmiti Society"
+1124,Vitthalwadi Sinhagad Road
+1125,Sairatna
+1126,Kokane Chowk
+1127,Alpana Talkies
+1128,Kokane Chowk
+1129,Waki Kh
+1130,Shivar Chowk
+1131,Ingale Hospital
+1132,Shivar Chowk
+1133,Kalewadi Ma Na Pa Shala
+1134,Gate Number 10
+1135,Kadamvasti Loni
+1136,Nanded Phata
+1137,Shirke Company
+1138,Govind Yashada Chowk
+1139,Dattawadi Mhasoba Chowk
+1140,PAndT Colony
+1141,Raviraj Hotel
+1142,Amarjai Mandir
+1143,Juna Hinjawadi Jakat Naka
+1144,Aai mata Mandir
+1145,Joona Hinjewadi Jakat Naka
+1146,Amalewadi
+1147,Shitaladevi Chowk Guruwarpeth
+1148,Talwade
+1149,Bauddhavasti
+1150,Karachi Chowk
+1151,Mohannagar Chinchwad
+1152,Bhagvatinagar
+1153,Banergaon Odha
+1154,Fujitsu Company
+1155,Dehuroad Bazar
+1156,Ramnagar Rahatni
+1157,Popularnagar
+1158,Gaikwadwadi
+1159,Hyderabad Cement Company
+1160,Hyderabad Cement Company
+1161,Shivtejnagar
+1162,Shivtejnagar
+1163,Govind Halwai Chowk
+1164,Jehangir Hospital
+1165,Gurudatta Fabricators
+1166,Sangurdi Phata
+1167,Rakesh Sweet Mart
+1168,Sawant College
+1169,Patilnagar
+1170,Collector Kacheri
+1171,Bagadevasti
+1172,Samadhi Mandir
+1173,Vadgaon Budruk Phata
+1174,Chavanmala
+1175,Gul Aali
+1176,Jambhulkarnagar
+1177,Panyachi Taki Markal
+1178,Shindevasti Jahangirnagar
+1179,Indraprabha
+1180,Sakhrevasti
+1181,Janwadi
+1182,Mile Dagad Kramank 23 Nagar Road
+1183,Aaple Ghar
+1184,Navsahayadri
+1185,Aaple Ghar
+1186,TATA guard room
+1187,Radha Swami Satsang
+1188,Shiwapurbaug
+1189,TATA guard room
+1190,Chandannagar
+1191,Hanuman Chowk
+1192,wahilenagar
+1193,Chandannagar
+1194,Kharadi Bypass
+1195,Shastri Nagar
+1196,Military Hospital Rangehills
+1197,Kharadi Bypass
+1198,Jambe
+1199,Janakbaba Darga
+1200,Akole Bus Stop
+1201,Wadia Bungalow
+1202,Wadia Bungalow
+1203,Vinayak Hospital
+1204,Ramwadi Jakat Naka
+1205,Kendriya Vidyalay Lohgaon
+1206,Vimannagar Corner
+1207,Medi Point
+1208,Ramwadi Jakat Naka
+1209,Dandekar Pul
+1210,Vimannagar Corner
+1211,Gokhale Hall
+1212,Pachwa mail
+1213,Wadgaon sheri phata
+1214,Pachwa mail
+1215,Toll Naka
+1216,Wadgaon sheri phata
+1217,Bhagatwadi
+1218,Talegaon Nagarparishad
+1219,NDA Gate Colony 10
+1220,Sambhaji Chowk
+1221,Westend
+1222,Yantriki Bhavan
+1223,Ganeshnagar Dange Chowk
+1224,Suply Depot
+1225,Waki Kh
+1226,Nandegaon Phata
+1227,Kunjirvasti
+1228,Khandoba Mandir
+1229,Daulat Garden
+1230,Gokhalenagar Shala
+1231,Khadi Machine Katraj Kondhwa Road
+1232,Dehu Grampanchayat
+1233,Pawarvasti Wadgaonghenan
+1234,Talathi Office
+1235,5 Wa Mile
+1236,Aai mata Mandir
+1237,Poultry Farm Shivneri
+1238,Nandgude Shala
+1239,Dattamandir Marnewadi Road
+1240,Mundhwa Shala
+1241,Warhade Phata
+1242,Parkhi Madhyamik Vidyalay
+1243,Tata Material Gate
+1244,Pandavnagar Hinjawadi
+1245,Khadi Machine Shiroli
+1246,Jijamata Park
+1247,Jijamata Park
+1248,Shivpushpak Park
+1249,Philips
+1250,Big India
+1251,Aditya Hotel
+1252,Kalpataru Society Pimplegurav
+1253,Dhanoragao
+1254,Matalwadi Bhugaon
+1255,Salunke Vihar
+1256,Yerawada
+1257,Jilha Parishad Shala Chande
+1258,Annadhanya Godam
+1259,Patil Colony/Gosavi Vasti
+1260,Aaimata Mandir
+1261,ABC Farm
+1262,Abhinav College
+1263,Buddha Vihar Dapodi
+1264,Provision Stores
+1265,Motherson Company
+1266,Century Enka Colony
+1267,Vitthalwadi jakat naka
+1268,Rahul Park Gate Number
+1269,Shagun Chowk
+1270,P.L.Deshpande Garden / Navshamaruti
+1271,P.L.Deshpande Garden / Navshamaruti
+1272,Godown Gultekdi
+1273,Navi Sangvi
+1274,Hinjawadi Jakat Naka
+1275,Military Hospital Khadki
+1276,Vishramdham
+1277,Vitbhatti Chande
+1278,Balaji Chowk
+1279,Bhagwat Mangal Karyalay
+1280,Bhandara Dongar Paytha
+1281,Vasantbaug Chowk
+1282,Ramoshiwadi
+1283,Vaishnavi Collection
+1284,Kedarinagar
+1285,Potewadivasti
+1286,Vishramdham
+1287,Patwardhanbaug
+1288,Avsarwadi
+1289,Kasarwadi
+1290,Kasarwadi
+1291,Garage
+1292,Ma Na Pa Reverse side
+1293,Malwadi Kirkatwadi
+1294,Manjari Bk
+1295,Jiveshwar Society
+1296,Kawdi Rasta
+1297,Prayagdham Ashram Gate
+1298,Panchawati Niwas
+1299,Chakankarmala
+1300,Jyoti English School
+1301,Kirloskar Company
+1302,Kendurgaon
+1303,Star Garden
+1304,Shahunagar Ganesh Mandir
+1305,Bhaji Market
+1306,Devi Indrayani Society
+1307,Pathare Bungalow
+1308,L Mark
+1309,Navlakha Godown
+1310,Dapodi Mantri Niketan
+1311,IIMS Institute
+1312,Vitthal Mandir Shreeman Society
+1313,Vitthalwadi Dehu
+1314,Snehalay Apang Shala
+1315,Satyapuram
+1316,Gopal Patti
+1317,Naigaon
+1318,Vitthal Mandir Mhasolkar
+1319,Gavtevasti
+1320,Boratevasti Nasik Road
+1321,Spicer College
+1322,Nageshwar Vidyalay
+1323,Sandhyanagar
+1324,Shivaji Chowk Talegaon Dhabhade Road
+1325,Gaikwadwadi
+1326,Kalubai Mandir Warve
+1327,Ramnagar Pimplegurav
+1328,Jagtap Dairy
+1329,Mahabaleshwar Mangal Karyalay
+1330,Kshatrunjay Mandir
+1331,Lakshminagar Handewadi Road
+1332,Tadi Gutta
+1333,Balaji palace / Rakhak Nagar
+1334,Sambhajinagar Dhankawadi
+1335,Donajegaon
+1336,Ambegaon
+1337,Ambigaon
+1338,Bavdhan Khind/Chandani Chowk
+1339,Jakat Naka Mohammadwadi
+1340,Ordinance Club
+1341,Rajaram Pul
+1342,Ordinance Club
+1343,Kasturba Hopsital
+1344,Mahabali Chowk
+1345,Sasoon Hospital
+1346,Kesnand Phata
+1347,Colony Number 10
+1348,Police Line
+1349,Kesnand Phata
+1350,Navlakh Umbre Jalshuddhikaran Kendra
+1351,Railway Quarters
+1352,Dattanagar Alandi Road
+1353,Rajasthan Hotel
+1354,Sadesatranali
+1355,Gokhale Hall
+1356,VIT College
+1357,Sandvik company
+1358,Shanti Nagar
+1359,Satavnagar
+1360,Warje Malwadi
+1361,MES Pumping Station
+1362,Sainik Wadi
+1363,Someshwarwadi
+1364,Mental Hospital
+1365,Officers Mess
+1366,Sinhagad
+1367,Indori Bypass Phata
+1368,Indrayani Darshan
+1369,Shipra Society
+1370,Bhugaon
+1371,Bhosri Phata (Magzine)
+1372,Dighi Odha
+1373,MIDC Phata
+1374,Dighi Odha
+1375,Jadhavnagar
+1376,Godown Gultekdi
+1377,Shastri Chowk
+1378,Indoorance System Chakan Mhalunge
+1379,Rasrang Sweet Corner
+1380,Paisa Fund
+1381,Gavli mala
+1382,Suvarna Fabricators
+1383,Dagade Patil Farm
+1384,Newalevasti
+1385,Telco hostel
+1386,Madiwale Colony
+1387,Kaspatevasti
+1388,ZF Steering Company
+1389,Boratevasti Chikhali Road
+1390,Deep Bungalow
+1391,HA Corner
+1392,Dehuroad Police Lane
+1393,Nehrunagar Corner
+1394,Bhatnagar
+1395,Yamuna nagar
+1396,Rohkal Phata
+1397,Suvarnpark
+1398,Raghunandan Mangal Karyalay
+1399,Tilak Chowk
+1400,Wakad Bridge
+1401,Tilak Chowk
+1402,Khadki Station
+1403,Nisarga Society
+1404,Bandal Farm
+1405,Sambhajinagar
+1406,Sutarwadi Paud Road
+1407,Indrayaninagar Corner
+1408,Bhumkar complex
+1409,Dahanukar Colony
+1410,Ghorpadi Post
+1411,Giridharbhavan
+1412,Marado Company
+1413,Kuran Farm
+1414,Wakad Phata
+1415,Sonavane Hospital
+1416,Sonavane Hospital
+1417,Sonya Maruti Chowk
+1418,Prayag Dham Phata
+1419,Nana Path / Modern Bakery
+1420,Dhumal Tali
+1421,Kadamvasti Perne
+1422,Neeta Park Pimple Nilakh
+1423,Bhadalevasti SaswadRoad
+1424,Agam Mandir
+1425,Agnishamak Kendra NDA
+1426,ST Depo
+1427,Lucky Wajankata
+1428,ST Stand Nasrapur
+1429,Moshi Jakat Naka
+1430,St Meera College
+1431,Yadavvasti Naigaon Chaufula
+1432,Ordinance Factory
+1433,Kashiwadi
+1434,Patrakarnagar
+1435,Punawale Phata
+1436,Maheshnagar
+1437,sadalbaba darga
+1438,Balewadi Phata
+1439,Bormal
+1440,Karandigaon Kaman
+1441,Mukbadhir Shala
+1442,Pimplegurav
+1443,Moi Phata
+1444,Shivapurwada
+1445,Kharadi Gaon
+1446,Sai Sayajinagar
+1447,Vishrantwadi Airport Road
+1448,Mukainagar
+1449,Chinchwade Farm
+1450,Shaninagar
+1451,Bopodi
+1452,Theur Phata
+1453,Materewadi
+1454,DY Patil College Akurdi
+1455,Gunjan corner
+1456,Rihegaon
+1457,Shasakiya Vishramgruha Paudgaon
+1458,Jambhulkarnagar
+1459,Bungalow Number 105
+1460,Badadevasti
+1461,Bhosalevasti Nagar Road
+1462,MIT College
+1463,Sachchai Mata Mandir
+1464,Shitolevasti Susgaon
+1465,Gharkul Vasahat Warje
+1466,Kondhanpur
+1467,Talegaon Station
+1468,Lake Town Gate Number
+1469,Bopodigaon
+1470,Mahatma Gandhi Stand
+1471,Sakoremala
+1472,Talegaon General Hospital
+1473,Pawar Quarters
+1474,Runwal Project
+1475,Jijamata Hospital
+1476,Yerwada
+1477,Rahatani Phata
+1478,Chintamani Society
+1479,Yerwada
+1480,Futira Complex
+1481,Gunjan corner
+1482,Gunjan Corner
+1483,Shanipar
+1484,Kashiwadi
+1485,Vahtuknagari
+1486,Kalikamata Mandir
+1487,Perugate Police Chowky
+1488,Golewadi
+1489,Jai Bhavani Nagar
+1490,Waghere College
+1491,Jai Bhavani Nagar
+1492,Hirabaug
+1493,Raste Wada / Apollo Talkies
+1494,Gole Phata
+1495,Raste Wada / Apollo Talkies
+1496,Pravin Masala Company
+1497,Suryakiran Khat Karkhana
+1498,Poultry Farm Sorthapwadi
+1499,RTO Chikhali
+1500,Thakur Vasti
+1501,Vitbhatti Wakad
+1502,Sangvi College
+1503,Ganjay Society
+1504,Hero Chassis
+1505,Maharshi Karve Shikshan Sanstha
+1506,Paisa Fund
+1507,Kasture Chowk
+1508,Patidar Bhavan
+1509,Kondhwa Bk Corner
+1510,Nanekarpark
+1511,Sadhana Vidyalay
+1512,Mukbadhir Shala
+1513,Nanavli Phata
+1514,Indrayani Vihar
+1515,Khadki Bazar
+1516,Hotel Vitthal Kamat
+1517,Ambegaon Pathar Corner
+1518,Shital Petrol Pump
+1519,Telco Colony
+1520,Kondhanpur
+1521,Maheshwari Mangal Karyalay
+1522,Rajaram Gas
+1523,Sambaji Pul Police Chowky
+1524,Bhandara Dongar Paytha
+1525,Bhukum
+1526,Moshigaon
+1527,GPO
+1528,Pimpavali Phata
+1529,Omkar Comoany
+1530,Ganesh Nagar Alandi Road
+1531,Sangrun
+1532,Atlas Company
+1533,ARDE Colony
+1534,Akole Bus Stop
+1535,Balaji Mandir
+1536,Chudaman Talim
+1537,Paraj Company
+1538,Kudjegaon
+1539,Nageshwar Vidyalay Phata
+1540,Kaun Road
+1541,Mundhwa Phata
+1542,Shastri Nagar
+1543,Suskhind Phata
+1544,Shantinagar
+1545,Deshpande Farm
+1546,Malwadi Kirkatwadi
+1547,Nehrunagar
+1548,Nirma Company
+1549,Lupin Company Phata
+1550,Mitranagar
+1551,Nhavi Sandas
+1552,Suskhind Phata
+1553,Anand Park
+1554,Hadapsar Bhaji Market
+1555,Anand Park
+1556,Moshi Jakat Naka
+1557,South Lane Vikrikar Bhavan
+1558,Nasrapur
+1559,Rahatwadegaon
+1560,Suvarnpark
+1561,Krushna Mandir Corner
+1562,Kasarsai Karkhana Phata
+1563,Khandoba Mandir
+1564,Netajinagar
+1565,Vitbhatti Nere
+1566,Gujarwadi Phata
+1567,Gandharvanagari
+1568,Ganesh Peth
+1569,Lal Ghar
+1570,Shatrunjay Mandir
+1571,Atulnagar
+1572,Bangarvasti
+1573,Alpana Talkies
+1574,Talegaon Phata ST Stand
+1575,Sortapwadi
+1576,Khandoba Mandir Corner
+1577,ST Stand Grampanchayat Talegaon
+1578,Yadavvasti Prayagdham
+1579,Master Bakery
+1580,Commissioner Bungalow
+1581,Ganeshmala
+1582,Kalewadi Saswad Road
+1583,Mhalunge Phata Balewadi
+1584,Khothrud Stand
+1585,Bankarvasti
+1586,Military Hospital Vanawadi
+1587,Nanded Phata
+1588,Ma Na Pa Reverse side
+1589,Chaudharivasti Solapur Road
+1590,Mile Dagad Kramank 22 Pirangutghat
+1591,Rajesh Society Corner
+1592,Vitbhatti Wakad
+1593,Ankur Bungalow
+1594,Akurdi Police Chowky
+1595,Abhiman Shree Society
+1596,Alandi
+1597,Wakad Bridge
+1598,ST Regional Office
+1599,Aviraj Lodge
+1600,Mhalunge
+1601,Mahalaxminagar Corner
+1602,Fuel Depot
+1603,Kondhwagate
+1604,Gavli Matha
+1605,Talegaon Station
+1606,Avinash Mangal Karyalay
+1607,Popularnagar
+1608,Alfa Laval Company
+1609,Bhegdewadi
+1610,Alfa Laval Company
+1611,Chakradhar Shala
+1612,Kate Patil Chowk
+1613,Traffic Police Chowky
+1614,Sawtamali Mandir
+1615,Shivaji Maratha Highschool
+1616,Gajanan Mandir
+1617,Gajanan Mandir
+1618,Vishwakarma
+1619,Gujrat Colony
+1620,Shivshankar Society
+1621,Jadhavwadi Phata Chikhali
+1622,CISV
+1623,Gulnur Farm
+1624,Mayur Colony
+1625,Shree Control
+1626,NCL Gate
+1627,Vitbhatti Rehe
+1628,Shanti Medical Stores
+1629,Kalwad
+1630,Chandannagar / Sainathnagar
+1631,Digambar Marble
+1632,Chandannagar / Sainathnagar
+1633,Bavdhan Khind/Chandani Chowk
+1634,Meera Society
+1635,Ambedkar Vasahat
+1636,Meera Society
+1637,Chakan Market Yard
+1638,Power House Ghotawade
+1639,Dhawdevasti
+1640,Punyanagri
+1641,Suncity
+1642,Railway Crossing Sasanenagar
+1643,Bavdhan Phata
+1644,Kiwalegaon
+1645,Shubham Society Warje
+1646,Kundan Hotel
+1647,Kharadi Gaon School
+1648,Nakhatevasti
+1649,Sachapir Street
+1650,Kesanandgaon
+1651,Chaudharivasti Solapur Road
+1652,Dharmaraj Chowk
+1653,Kohima line
+1654,Mile Dagad Kramank 22 Pirangutghat
+1655,NDA Gol Market
+1656,VIT College
+1657,Kalamkarvasti
+1658,Poultry Farm Trimurti
+1659,Masulkar Colony
+1660,Navi Sangvi
+1661,Ashoknagar Rangehills
+1662,Big India
+1663,Pari Company
+1664,Shaniwarwada Stand
+1665,Sutar Clinic
+1666,Bharat English School
+1667,Sutar Clinic
+1668,Gavli Matha
+1669,Vimannagar Corner
+1670,Kalbhairav Mandir
+1671,Nadar City
+1672,Godown (Talera)
+1673,Gogalwadi Phata
+1674,Soyrik Mangal Karyalay
+1675,Devi Link
+1676,Ashirwad Bungalow
+1677,Ajinkyatara
+1678,Niljyoti Society
+1679,Sindh Colony Baner Road
+1680,Triveninagar
+1681,Kalyangaon
+1682,Uttamnagar
+1683,Pimplesaudagar Chowk
+1684,Holi Angel Shala
+1685,Kutalevasti
+1686,Tamhane Chowk
+1687,Jadhavwadi Chikhali
+1688,Dattamandir Pashan Road
+1689,Laxminarayan Talkies
+1690,Laxminarayan theatre
+1691,Pride Ashiyana Society
+1692,Shivaji Maharaj Putla
+1693,Sanevasti
+1694,Pashan Naka Bus Stand
+1695,Homegaurd
+1696,Kamgarnagar
+1697,Shreedhar Colony
+1698,Rajiv Gandhinagar
+1699,Khiridvasti
+1700,Ankush Chowk
+1701,Balewadi Depot
+1702,Vasantdada Sugar Institute
+1703,Milk Dairy / Sarpodyan
+1704,Sukhsagarnagar
+1705,Milk Dairy / Sarpodyan
+1706,ST Stand Paud
+1707,Bhaji Mandai Hadapsar
+1708,Deccan Gymkhana
+1709,Hingane
+1710,Shagun Chowk
+1711,Station Family Camp
+1712,Vasantdada Putala Sangvi
+1713,Shahunagar Ganesh Mandir
+1714,Pravin Mehendi
+1715,Mayur Colony
+1716,Patidar Bhavan
+1717,Rajasthan Hotel
+1718,Sakalnagar
+1719,Quarter Gate
+1720,KEM Hospital
+1721,Navi Sangvi
+1722,Janakbaba Darga
+1723,Gandhi Bhavan Phata
+1724,Kasturba Gandhi Shala
+1725,Gaikwadvasti Shivapurgaon
+1726,Natraj Stand
+1727,Warje Shala
+1728,Satyapuram
+1729,ZF Steering Company
+1730,Mhalungegaon
+1731,Housing Board Corner
+1732,Jayanand Khira
+1733,Mandai
+1734,Raikarmala
+1735,Ashok Leyland Godown
+1736,Choundhe Lowns
+1737,Janwadi
+1738,Joona Hinjawadi Jakat Naka
+1739,Galinde Path
+1740,Hariprasad Bungalow
+1741,Vijaynagar
+1742,Neeta Park
+1743,Poultry Farm Deccan
+1744,Shree Industries
+1745,Sutarvasti
+1746,Shinde Farm
+1747,Tingarenagar
+1748,Wadebolhai Mandir
+1749,Provision Stores
+1750,Mhalunge Stadium Gate
+1751,Bhairoba Pumping Station
+1752,Ganesh Talav
+1753,Kholevasti
+1754,Modern College Moshi
+1755,Gangapuram Mhada
+1756,Deccan College
+1757,Pirangut
+1758,Ambegaon Phata Lavasa Road
+1759,Chintamani Dnyanpith
+1760,Nandegaon Phata
+1761,Radha Hotel
+1762,Simla Office
+1763,Markalgaon
+1764,Jadhav Vasti
+1765,Jadhavvasti
+1766,Kawdewadi
+1767,Mile Dagad Kramank 8 Bavdhan Ghat
+1768,Vitthalwadi Phata
+1769,12 Mile
+1770,Kirloskar Company
+1771,Defence Colony
+1772,12 Mile
+1773,Indrayaninagar
+1774,Karve Putala
+1775,Keshavnagar Pul
+1776,NDA Stadium
+1777,Kalyaninagar
+1778,Choundhe Lowns
+1779,Bhandari Niwas
+1780,Nashik phata
+1781,Kaun Road
+1782,Markal Vajan kata
+1783,Torana Garden
+1784,Moraya Raj Park
+1785,Jagtap Vasti
+1786,Mandvi Kh
+1787,Mail Dagad No 23
+1788,Jagtap Chowk
+1789,Mail Dagad No 23
+1790,Nilkantheshwar Phata
+1791,Shinde Farm
+1792,Rangehills Circle
+1793,Shipra Society
+1794,Kranti Stambh / Waghmare Vasti
+1795,Bharat Ele Company
+1796,Ambil Odha Colony
+1797,Bafna Industries
+1798,Mile Dagad Kramank 19 Diveghat
+1799,Shivaji Maratha Highschool
+1800,Seco Company
+1801,Ashok Leyland Godown
+1802,Fatimanagar
+1803,Suryakiran Khat Karkhana
+1804,Khadi Machine Katraj Kondhwa Road
+1805,Materevasti
+1806,Donajegaon Phata
+1807,Mile Dagad Kramank 8 Bavdhan Ghat
+1808,Prayagdham Ashram
+1809,Somatne Phata
+1810,Jehangirnagar
+1811,Manik Press Road
+1812,Wagholi Bazar Tal
+1813,Sawtamali Mandir
+1814,Bhilarewadi
+1815,Lonkarvasti
+1816,Lamanvasti
+1817,Dhanwantari Hospital
+1818,Netaji Highschool
+1819,Yashwantnagar Rangehills
+1820,Mahatma Gandhi Bas Sthanak
+1821,Sai Chowk Navi sangvi
+1822,Marodo Company
+1823,Morwadi
+1824,Ravet Pumping Station
+1825,Century Enka Colony
+1826,Kuruli Phata
+1827,Padalgharwadi
+1828,Poultry Farm Desai
+1829,Vitthalwadi
+1830,Vaddhara Bandhara
+1831,Balewadigaon
+1832,Bob International School
+1833,Kunjirwadi Phata
+1834,Lakshminagar Corner
+1835,Vidhyapeeth Main Building
+1836,Talegaon Dhabhade Petrol Pump
+1837,Tamhanevasti
+1838,Shastrinagar Kothrud
+1839,Panchawati Niwas
+1840,Someshwar Mandir
+1841,Poultry Farm Shivneri
+1842,Someshwar Mandir
+1843,Shubham Society
+1844,Karandigaon
+1845,Shubham Society
+1846,Pawarvasti Wadgaonghenan
+1847,L Mark
+1848,Common Wealth
+1849,Ahilyadevi School
+1850,Sundarban
+1851,Keshavnagar Pul
+1852,Kondhwale Phata
+1853,Mantarwadi
+1854,Niljyoti Society
+1855,Ghulevasti Manjari
+1856,Appughar Corner
+1857,Gavhane vasti
+1858,Burma Shell
+1859,Gokhalenagar Police Line
+1860,Srushti Chowk
+1861,Hotel Rajyog
+1862,Kakdevasti Prayagdham
+1863,Godown Gultekdi
+1864,Chaudhari vasti  Phata
+1865,Ashok Talkies
+1866,Khadki Station
+1867,Ganeshnagar Dhayari
+1868,Khadi Machine Shiroli
+1869,Radha Swami Satsang
+1870,Link Road
+1871,Malnagar
+1872,Pimprinagar Ma Na Pa Shala
+1873,Vadgaon Budruk Phata
+1874,Dhumal Tali
+1875,Mile Dagad Kramank 18 Bhukum
+1876,NCL Gate
+1877,Gurudatta Fabricators
+1878,Khese Park
+1879,Vadgaonmawal Corner
+1880,Bopodi
+1881,Abhinav Yantriki Kendra
+1882,Adarshnagar
+1883,Agam Mandir Paytha
+1884,Maharshi Nagar
+1885,Maharshi Nagar
+1886,Gokulnagar Narhe Road
+1887,Shani Mandir
+1888,Shivparvati Garden
+1889,LIC Colony
+1890,Sant Company
+1891,Expanze Society
+1892,Ganeshnagar Navsahyadri
+1893,Ma Na Pa Main Bus Stand
+1894,Roseland Society
+1895,Roseland Society
+1896,Talathi Office
+1897,Naigaon
+1898,Keshavnagar Chowk
+1899,Vitthal Mandir Mhasolkar
+1900,ARDL Gate
+1901,Govind Yashada Chowk NB
+1902,Dimpal Chemicals
+1903,Govind Yashada Chowk NB
+1904,Punekarvasti
+1905,Shahunagar
+1906,Simla Office/Shivaji Nagar
+1907,Ganeshnagar Dange Chowk
+1908,Jagtap Dairy
+1909,Jagtap Dairy
+1910,Aviraj Lodge
+1911,Swapnnagari
+1912,Tata Guardroom
+1913,Gandhinagar
+1914,Kendriya Vidyalay Dehu Road
+1915,Sindhunagar
+1916,Shelarvasti Talawade
+1917,Poultry Farm Sangrun
+1918,Shindewadi Satara Road
+1919,Dabhadevasti Perane Road
+1920,Madhur Milan Mangal Karyalay
+1921,Sheregaon
+1922,Maheshwari Mangal Karyalay
+1923,Ravet Pumping Station
+1924,Sector Number
+1925,Vinayak Hospital
+1926,Sutarvasti
+1927,Jyoti English School
+1928,Jagatguru Chowk
+1929,Hanumannagar
+1930,Mahadevnagar Manjari
+1931,Bhare Phata
+1932,U Co Bank
+1933,Tangde Bandhumala
+1934,Bhukum Ashram
+1935,Ashok Stambh
+1936,Bhosari Police Station
+1937,Talegaon General Hospital
+1938,Borkarvasti
+1939,Housing Board Corner
+1940,Balsadan
+1941,Khed Shivapur
+1942,Jyoti English School
+1943,SNZ Chemical Company
+1944,Akurdi Police Chowky
+1945,Ankur Bungalow
+1946,Lumax Company
+1947,Parvati Darshan
+1948,Raj Group
+1949,Hanuman Mandir Indori
+1950,Sahastrabuddhe Samadhi
+1951,CNG Pump Corner
+1952,Peacock Garden
+1953,Malnagar
+1954,Jagdhmba Hotal
+1955,Jyotibanagar
+1956,Mahalaxminagar Corner
+1957,Bal Shikshan Mandal
+1958,Appa Balawant Chowk
+1959,Ruby Hall
+1960,Maruti Mandir Vajewadi
+1961,Alegaonkar Shala
+1962,Bormal
+1963,Hero Chassis
+1964,Chaitanya Vidyalay
+1965,Saisiddhi
+1966,Walhekarwadi Corner
+1967,Ma Na Pa Reverse side
+1968,Talwade Jakat Naka
+1969,Parhadvasti
+1970,Kharabwadi
+1971,Gharkul Vasahat Warje
+1972,Vadarvasti
+1973,Industrial Company
+1974,Aaple Ghar
+1975,Gajanan Maharaj Mandir Fursungi
+1976,Kemsewadi
+1977,Kondhur Phata
+1978,Guruprasad Bungalow
+1979,Gaikwadvasti Nhavisandas Road
+1980,Talegaon Khind
+1981,Vidhyapeeth Main Building
+1982,Mahadev Mandir Pimple Saudagar
+1983,Vastu Udyog
+1984,Sangurdi Phata
+1985,Panjarpol
+1986,Govind Mangal Karyalay
+1987,BU Bhandari Showroom
+1988,DSK Toyota
+1989,Shiwre Phata
+1990,Prakash Chicken Center
+1991,Rohkal Phata
+1992,Hill Hila
+1993,CWPRS Gate Number
+1994,Hadapsargaon
+1995,Tata Guardroom
+1996,Radhika Society
+1997,ST Stand Kesanand
+1998,Ghorpadi Post
+1999,Sanasbaug
+2000,Kokate Aali
+2001,Waki Bk
+2002,Ashirwad Bungalow
+2003,Bagalvasti
+2004,Shindevasti Dongergaon
+2005,Ganesh Peth
+2006,Poona Poultry
+2007,Ravle Bungalow
+2008,Ghulevasti Undri Road
+2009,Sinhgad
+2010,Zendewadi
+2011,Kondhwa Police Station
+2012,IAT Gate
+2013,Kadus Phata
+2014,Vetalbaba Chowk
+2015,Tikone Godown
+2016,Meeranagar
+2017,Sindhupark Society
+2018,RMD Collage
+2019,Durvankur Mangal Karyalay
+2020,Vadgaon Mawal
+2021,Hinjawadi Petrol Pump
+2022,Railway Crossing Sasanenagar
+2023,Adarshnagar
+2024,Jayhind Highschool
+2025,Indoorance Company Chakan Mhalunge
+2026,Lakshmi Colony
+2027,Shreekrushna Mandir
+2028,Power House Chinchwadenagar
+2029,Someshwarwadi Phata
+2030,Meeranagar
+2031,Khiridvasti
+2032,Krushna Mandir Dehu Road
+2033,Taljai Pathar
+2034,Ramdas Maral
+2035,Hockey Ground
+2036,Taljai Pathar
+2037,Sutarwadi Pashan
+2038,Hotel Vitthal Kamat
+2039,Appughar Corner
+2040,Dagadevasti
+2041,Lavle Phata
+2042,Grand Hotel
+2043,Shadawal Baba Darga
+2044,Inamdarvasti Solapur Road
+2045,Chhajed Petrol Pump
+2046,Karve Putala
+2047,Kondhwa Shala
+2048,Kshatrunjay Mandir
+2049,Power House Fursungi
+2050,Sadgurunagar
+2051,Mahaveer Company
+2052,Oswal Bhandhu Estate
+2053,Gopal Patti
+2054,Kalewadi Ma Na Pa Shala
+2055,Lal Ghar
+2056,Manjari Kh
+2057,Morwadi Corner
+2058,Chaudharivasti Nagar Road
+2059,Ambedkarnagar Baner
+2060,Ambegaon
+2061,Kaun Road
+2062,Pimplenilakh
+2063,Kalewadi Saswad Road
+2064,Nutan Vidyalaya
+2065,Shivtarwadi Phata
+2066,16 Number
+2067,40 Aundh Road
+2068,Someshwarwadi Phata
+2069,Bijalinagar
+2070,Rautnagar
+2071,Kekan gas
+2072,Nashik Phata
+2073,Pandavnagar Hinjawadi
+2074,Mitti Ka Ghar
+2075,Keshavnagar
+2076,Seeta Anusya Niwas
+2077,Nirgudkar Farm
+2078,Om Hospital
+2079,Sai Mandir
+2080,Kendriya Vidyalay Lohgaon
+2081,Murkutevasti
+2082,Karandi Phata
+2083,Dimpal Chemicals
+2084,MES Canteen NDA
+2085,Vadacha Stop
+2086,Rangehills Corner
+2087,Nanavli Phata
+2088,Balaji Petrol Pump
+2089,Sanketvihar
+2090,Sawtamali Mandir
+2091,Shivaji Chowk Talegaon Dhabhade Road
+2092,Gokhalenagar Police Line
+2093,Kalimata Mandir
+2094,Om Hospital
+2095,Yerawada Press
+2096,Tale Male
+2097,Wadebolhai Mandir
+2098,Sant Dharmaji Samadhi
+2099,Kedarinagar Corner
+2100,Baner Phata Aundh Road
+2101,Ambedkar Bridge
+2102,Bhekrainagar
+2103,Stage Kramank 6
+2104,Vitbhatti Rehe
+2105,Daak Bungalow
+2106,Karan Greens
+2107,Sindhunagar
+2108,Lullanagar
+2109,C Prabhag Karyalay
+2110,Sinhgad
+2111,Farshi Karkhana
+2112,Dabhadevasti Charholi
+2113,Devachi Uruli
+2114,Navlakh Umbre
+2115,Vadegaon
+2116,Yantriki Bhavan
+2117,MES Pumping Station
+2118,Mukbadhir Shala
+2119,Dhamalevasti Nandegaon
+2120,Mile Dagad Kramank 18 Bhukum
+2121,ST Vibhagiya Karyalay
+2122,Bhandari Company
+2123,Susgaon
+2124,Rangehills Post Office
+2125,Wondercity
+2126,Indrayani College
+2127,Mayuri Wajankata
+2128,HA Corner
+2129,Santoshnagar
+2130,Bagadevasti
+2131,Vishrambaugwada
+2132,Simla Office
+2133,Lal Mandir
+2134,Peacock Garden
+2135,Rajaram Pul
+2136,Gandhi Bhavan Phata
+2137,Lokmanya Hospital Pradhikaran
+2138,ST Stand Nasrapur
+2139,Varchamala
+2140,Kirkatwadi Phata
+2141,Simla Office
+2142,Paygudevasti
+2143,Shantinagar
+2144,Akurdi Railway Station
+2145,Vartesh Flourist
+2146,Harihareshwar Mandir
+2147,Khese Park
+2148,Chimbli Phata
+2149,Ganesh Mandir Pimplenilakh
+2150,Lal Deoul
+2151,Rajgurunagar
+2152,Kalewadi
+2153,Rangehills Circle
+2154,Nandoshi Phata
+2155,Chakan Mhalunge Phata
+2156,Shiwapurbaug
+2157,Tata Material Gate
+2158,Parvati Jalshuddhikaran Kendra
+2159,Siddhivinayak Vastu
+2160,Vadgaon Mawal
+2161,Gavhanevasti Bhosari
+2162,Hegdewar Bhavan
+2163,Indira Vasahat
+2164,Hipick Company
+2165,PCP College Chowk
+2166,Gokulnagar Katraj Kondhwa Road
+2167,Shankar Darshan Society
+2168,Pragati Udyan
+2169,Kalukh Shetmala
+2170,Vadgaon Bk
+2171,Jain Mandir Guruwar Peth
+2172,Ganeshmala
+2173,Jaibhavani Warehousing
+2174,Deshmukhwadi
+2175,Kendriya Vidyalay NDA
+2176,Dongargaon Phata
+2177,Raghunandan Mangal Karyalay
+2178,Vidhyapeeth Press
+2179,Jyoti Ashram
+2180,Balajinagar
+2181,ABC Farm
+2182,Chakan Talegaon Chowk
+2183,Ramyanagari
+2184,Nehrunagar Corner
+2185,Icchapurti Ganesh Mandir
+2186,Pandavnagar Senapati Bapat Road
+2187,Dattanagar Katraj Road
+2188,Dehu Phata
+2189,Madhusanchay Society
+2190,Zero Boys Bakery
+2191,Saswad
+2192,Shivtirthnagar
+2193,Mile Dagad Kramank 21 Pirangutghat
+2194,Bundgarden
+2195,Khadki Railway Station
+2196,Nandoshi Phata
+2197,Handewadigaon
+2198,Tanna Products
+2199,Police Line
+2200,Bavdhan Phata
+2201,Dairy Farm
+2202,Dhumewadi
+2203,Jspm College
+2204,Kadamvasti Perne
+2205,Bhumkar complex
+2206,MatoShree
+2207,Radha Hotel
+2208,Nageshwar Vidyalay Phata
+2209,Devi Link Society
+2210,Diamond Wach Company
+2211,Ranubaimala
+2212,Gurukrupa Hospital
+2213,Army College
+2214,Devkar Park
+2215,Janwadi Corner
+2216,Rajas Society Corner
+2217,Pimprinagar Ma Na Pa Shala
+2218,Deshmukhvasti
+2219,Mayuri Wajankata
+2220,Sawarkar Bhavan
+2221,Shivajinagar
+2222,Kalimata Mandir
+2223,Jspm College Phata
+2224,Moshi Phata
+2225,Holkar water works
+2226,Choundhe Shala
+2227,Rakesh Sweet Mart
+2228,Manajibaug
+2229,Jambkarvasti
+2230,Balaji Mandir
+2231,Dhondiba Sutar Bal Udyan
+2232,P And T Colony
+2233,RTO Chikhali
+2234,Zero Boys Bakery
+2235,Madhur Milan Mangal Karyalay
+2236,Mulkhed
+2237,Venutai Chavan College Payatha
+2238,Oskar Company
+2239,Vadhu Bk
+2240,Zhala Complex
+2241,Chandkhed
+2242,Banergaon
+2243,Ghotawade Road Petrol Pump
+2244,Shivtirthnagar Corner
+2245,Katraj Peshve Talav
+2246,Mate Pat
+2247,Hatti Chowk
+2248,Shivnagar
+2249,Yerawada Jail
+2250,Nehrunagar
+2251,Sonavane Hospital
+2252,Canal Corner
+2253,Mental Corner
+2254,Dattamandir Paud Road
+2255,Paramhansnagar
+2256,Bhumkarvasti
+2257,Ma Na Pa Main Bus Stand
+2258,Nisarga Society
+2259,Lucky Farm
+2260,Barate Hospital
+2261,Ajinkyatara
+2262,Tanna Products
+2263,Sai Sayajinagar
+2264,Dhole Patil Farm
+2265,Kusgaon Jilha Parishad Shala
+2266,Dadachi Padal
+2267,Jijamata Hospital
+2268,Navin Highway
+2269,Subhanshah Darga
+2270,Potewadivasti
+2271,Matoshree Garden
+2272,Pandit Automotive
+2273,Moraya Raj Park
+2274,Gruhaprakalp
+2275,Shastrinagar Kothrud
+2276,Lake Town Gate Number
+2277,Gadikhana
+2278,PDCC Bank Hinjawadi
+2279,Banergaon
+2280,Jspm College Phata
+2281,Mayurnagari
+2282,Ksb Chowk
+2283,Malyachamala
+2284,Delux
+2285,Moze Vidyalay Samtanagar
+2286,Marunjigaon
+2287,Mile Dagad Kramank 21 Diveghat
+2288,Bahirwade Kridangan
+2289,Balbhavan
+2290,CWPRS
+2291,MES Canteen IAT
+2292,Green Park
+2293,ST Stand Kesanand
+2294,Vitbhatti Perne
+2295,Rakshevasti
+2296,Lakaki Bungalow
+2297,Chintamani Dnyanpith
+2298,Panjarpol
+2299,Paranjpe Scheme Dagadevasti
+2300,Bhagwatvasti
+2301,Nandanvan Chowk
+2302,Pashan Naka
+2303,Sutardara
+2304,Mankar Chowk
+2305,Sathe Biscuit
+2306,Lupin Company Phata
+2307,Dagadi Nagoba
+2308,Cheladi Phata
+2309,Chintamaninagar Sasanenagar
+2310,Yelwadi
+2311,Protacto Company
+2312,Sanevasti
+2313,Ashoka Bungalow
+2314,Dashbhuja Ganpati
+2315,Ramkrushna Mangal Karyalay
+2316,Kharadi Bypass
+2317,Vadgaon BK Highway
+2318,IT Tower
+2319,Kedarinagar Chowk
+2320,ST Stand Saswad
+2321,Panyachi Taki Navi Sangvi
+2322,Bagalvasti
+2323,Urawdegaon
+2324,Khothrud Stand
+2325,Lakshmi Colony
+2326,Jain Mandir Dehugaon
+2327,Keshavnagar Ma Na Pa Shala
+2328,Sangam Metal Company
+2329,Paygudevasti
+2330,Kudjegaon
+2331,Lakaki Bungalow
+2332,Aynalvasti
+2333,Ambedkar Putala Pimpri
+2334,16 Number
+2335,Amalewadi
+2336,Kalikamata Mandir
+2337,Tamhanevasti
+2338,Vadachi Talim
+2339,Kasarsai Karkhana
+2340,Methodist Church
+2341,MSB Pumping Station
+2342,Gogalwadi Phata
+2343,Tolani Institute
+2344,Maruti Mandir Kothrud
+2345,Tupemala
+2346,Pashan Gate
+2347,Ghat Utar Valan
+2348,Jijamata Hospital
+2349,Lipanevasti
+2350,Sahitya Parishad
+2351,Power House Padmawati
+2352,Vitthal Mandir Hadapsar
+2353,Rangehills Circle
+2354,Robbi Farm
+2355,Jalvayu Vihar Society
+2356,Bharati Vidyapeeth Gate
+2357,Chakan Mhalunge Phata
+2358,Hotel Mahima
+2359,Vilas Nandgude Niwas
+2360,Mahabaleshwar Mangal Karyalay
+2361,IBP Pump
+2362,Pimprigaon
+2363,Warjegaon
+2364,Ramoshigate
+2365,ITI Aundh
+2366,Carline Company
+2367,Ahire Gate
+2368,Balaji Petrol Pump
+2369,Talathi Chowk
+2370,Pandit Automotive
+2371,Sayyadnagar
+2372,LIC Colony
+2373,Balbhavan
+2374,Gangadham Corner
+2375,Kanbe Phata
+2376,Ma Na Pa Petrol Pump
+2377,Nehrunagar Depot
+2378,Vardade
+2379,Yewalewadi
+2380,Mile Dagad Kramank 10
+2381,Shindewadi Paud Road
+2382,Sairang Dhaba
+2383,Shasakiya vasatigruha
+2384,Balajinagar Corner
+2385,Vadegaon
+2386,Yerwada
+2387,Chinchwadenagar Corner
+2388,MIDC Bhosari
+2389,Mahadev Mandir Mehendale Garage
+2390,Gajanan Maharajnagar
+2391,Sindhupark Society
+2392,Gulmohar City
+2393,Pimpri Sandas
+2394,Expanze Society
+2395,Zhala Complex
+2396,Nehru Stadium
+2397,Hockey Ground
+2398,Lakudvasti
+2399,Ganesh Mala
+2400,Kirkatwadi
+2401,Sadu Nanavasti
+2402,Ganesh Talav
+2403,Naik Ovhal
+2404,Sawant College
+2405,Dhayari Phata
+2406,Bhatnagar
+2407,Malawalinagar
+2408,Santnagar
+2409,Vasant Talkies
+2410,MG Road Pune Camp
+2411,Shinde Farm Kusgaon Road
+2412,Khadki Station
+2413,Moshigaon
+2414,Ghanesh Peth
+2415,Gurudwara
+2416,lakshmannagar
+2417,Gosavivasti Karvenagar
+2418,Kale Colony
+2419,Khadakwasla Dharan
+2420,Commissioner Bungalow
+2421,Gulmohar City
+2422,Sasewadi Phata
+2423,Pancharatnanagar
+2424,Mhatre Pul
+2425,Dattanagar Katraj Road
+2426,Canbay Phata
+2427,DSK Toyota
+2428,Jayhind Highschool
+2429,Vadgaonmawal Corner
+2430,Yerawada Jail
+2431,Vitbhatti Vikasnagar
+2432,Jalvayu Vihar Society
+2433,Prayagdham Ashram Gate
+2434,Sahilpuram
+2435,Dudulgaon
+2436,Kalbhorvasti
+2437,Shivraj Nagar
+2438,Vikasnagar
+2439,Siddhi Garden
+2440,Station Name Goodluck Chowk
+2441,IBM
+2442,Posco Company
+2443,Kawdi Rasta
+2444,Rajguru Mahavidyalay
+2445,Splender Country Club Gate Kramank
+2446,Pegra Gron Company
+2447,Bandal Farm
+2448,Kudalwadi
+2449,Officers Mess
+2450,Ingwale Chowk Cornar
+2451,Ganj Peth Police Chowky
+2452,Banergaon Odha
+2453,Suply Depot
+2454,Gandhi Training College
+2455,Kasturba Gandhi Shala
+2456,Pathare Bungalow
+2457,Kamela
+2458,Farm House Khamboli Road
+2459,Fursungi
+2460,Khurawadevasti
+2461,Shivtharwadi
+2462,Kelwade Phata
+2463,Pimplenilakh
+2464,Talegaon Dhabhade Petrol Pump
+2465,Rajgurunagar
+2466,Ventribiology
+2467,Pragati Udyan
+2468,Khadakwasla Dharan Stores
+2469,Mile Dagad Kramank 9
+2470,Kelwade Phata
+2471,PDCC Bank Hinjawadi
+2472,Sasoon Hospital
+2473,Pimpri
+2474,Thermax Chowk
+2475,Jadhavwadi Phata Chikhali
+2476,Parhadvasti
+2477,Ganeshnagar Navsahyadri
+2478,Gavadevasti
+2479,Rangehills H type
+2480,Kondhwale Dairy
+2481,Station Name Karnatak Highschool
+2482,Sangrun Phata
+2483,Factory Road
+2484,Shivanand Enclave Company
+2485,Mental Corner
+2486,Sant Gadge Maharaj Shala
+2487,Krushna Plaza
+2488,Bahirwade Kridangan
+2489,40 Aundh Road
+2490,Tikone Godown
+2491,Lakshminagar Police Chowky
+2492,Runwal Project
+2493,Dahanukar Colony
+2494,Jiveshwar Society
+2495,Khurawadevasti
+2496,Dhangar Baba
+2497,Atulnagar
+2498,Trimurti Bungalow
+2499,Karandigaon
+2500,Laxminagar Police Chowky
+2501,Canal Corner
+2502,CWPRS
+2503,Shanti Medical Store
+2504,Shahunagar Ganesh Mandir
+2505,Vanwadi Bazar
+2506,Pawarwadi
+2507,Rahatnigaon
+2508,Moshi Phata
+2509,Warpe Farm
+2510,Kalewadi Phata
+2511,Karandi Phata
+2512,Philips
+2513,Dalvivasti
+2514,Ghotwadegaon Phata
+2515,Hud Company
+2516,Thorve School
+2517,Vakhar Mahamandal Marketyard
+2518,Garware Bungalow
+2519,Forest Office Road
+2520,Ganeshmala
+2521,Shivparvati Garden
+2522,Hanuman Chowk
+2523,Kadvasti Waki
+2524,Power House Tulapur
+2525,Yamunanagar
+2526,DSK Vishwa
+2527,Big India
+2528,Ahiregaon
+2529,Vitbhatti Dongar
+2530,Talwade
+2531,Tendulkarvasti
+2532,Sangamwadi Phata
+2533,Bhondvevasti Nagar Road
+2534,YCM Hospital
+2535,Rautwadi
+2536,Chavanmala
+2537,Indrayani Karyalay Navlakh Umbre Road
+2538,Shreeramnagar
+2539,Swargate Corner
+2540,Lavle Phata
+2541,Ambigaon
+2542,Ambil Odha Colony
+2543,Pimple Nilakh
+2544,Jadhavwadi Phata Chikhali
+2545,Krushna Plaza
+2546,Dehuroad Bazar
+2547,Katraj Peshve Talav
+2548,Kuran Farm
+2549,Appa Balawant Chowk
+2550,Bijalinagar Corner
+2551,Vinayak Hospital
+2552,Udyognagar
+2553,Durgesh Mandir
+2554,Kadvasti Undri
+2555,Mhalunge Corner
+2556,Shiwre Phata
+2557,Kumar Park
+2558,Panyachi Taki Lohgaon
+2559,Vasantdada Putala Sangvi
+2560,Farm House Khamboli Road
+2561,Elpro Company
+2562,Defence Colony
+2563,Shivtirthnagar
+2564,Shindewadi Paud Road
+2565,Landewadi
+2566,Dattawadi Kasarsai
+2567,Shasakiya vishramgruha paudgaon
+2568,Shell Petrol Pump
+2569,Uruli Railway Station
+2570,Ravet Chowk
+2571,Sarpodyan
+2572,Brahma Chaitanya
+2573,Ingalenagar
+2574,Madhusanchay Society
+2575,Mayuri Mangal Karyalay
+2576,Dattanagar Katraj Road
+2577,Dhamalevasti Mundhwa
+2578,Kate Patil Chowk
+2579,Pashan Tank Rasta
+2580,Pisoligaon
+2581,Bakwoulf Colony
+2582,Abhi Chemical
+2583,Agalambegaon
+2584,Ganeshnagar Talawade Road
+2585,Shikshak Society
+2586,Sonya Maruti Chowk
+2587,Vedant Dairy
+2588,Malwadi Manjari
+2589,Suskhind Phata
+2590,Gavadevasti
+2591,Wakvasti
+2592,Nanekarpark
+2593,Nirgil
+2594,Mahtre Pul
+2595,Khadki Post
+2596,Dhole Patil Farm
+2597,Kudalwadi Corner
+2598,Vasantbaug
+2599,Smashanbhumi
+2600,Tilakbaug
+2601,Sambhajinagar Dhankawadi
+2602,Juna Pulgate
+2603,Kondhwa Dhawde
+2604,Panyachi Taki Kendur
+2605,Fursungigaon Phata
+2606,Gaimukh
+2607,Agalambe Phata
+2608,Railway Quarters
+2609,Yamunanagar
+2610,Nandanvan Chowk
+2611,Pinglevasti
+2612,Shivaji Maharaj Putla Sasanenagar
+2613,Bhosale Petrol Pump
+2614,Khamboli
+2615,Kumbharvasti Pashan
+2616,JK Industries
+2617,Krushnai Mangal Karyalay
+2618,Police Workshop
+2619,Eagle Company
+2620,Indrayani Hotel
+2621,Gaikwadvasti Nhavisandas Road
+2622,Bhandari Hospital
+2623,Military Hospital Vanawadi
+2624,Jog Prashala
+2625,Moshigaon
+2626,Hagawne Padal
+2627,Vykentesh Colony
+2628,Draupada Mangal Karyalay
+2629,Gangardenagar
+2630,Mayuresh Automobiles
+2631,Panyachi Taki Alandi
+2632,Lokmanya Hospital Pradhikaran
+2633,Ma Na Pa Dengle Pul 2
+2634,Ma Na Pa Dengle Pul 2
+2635,Ma Na Pa Dengle Pul
+2636,Ma Na Pa Dengle Pul
+2637,Ma Na Pa Petrol Pump
+2638,Ma Na Pa Congress Bhavan
+2639,Ma Na Pa Congress Bhavan
+2640,Jadhavvasti
+2641,Shaniwarwada
+2642,Infosys Company Phase 1
+2643,Shivaji Maharaj Putla Dapodi
+2644,Bhatnagar
+2645,Tapkirnagar Rahatni
+2646,Warje
+2647,Kulkarni Petrol Pump
+2648,Kalewadi Phata Non Brt
+2649,Kalewadi Phata Non Brt
+2650,Ganga Nagar
+2651,Ganga Nagar
+2652,Pan Mala
+2653,Pan Mala
+2654,Kate Patil Chowk Non Brt
+2655,Rambaug
+2656,Simla Office
+2657,Ladies Hostel
+2658,Simla Office
+2659,Bhumkar Vasti
+2660,Bhumkar Vasti
+2661,Suskhind Phata
+2662,Wakad jakat naka
+2663,Apollo Talkies
+2664,Lic
+2665,Rawet Pumping Station
+2666,Kondhwale Phata
+2667,Kate Petrol pump
+2668,Krushna Nagar
+2669,Krushna Nagar
+2670,Landewadi
+2671,Landewadi
+2672,Law College
+2673,Laxmi Nagar Corner
+2674,Parvati Darshan
+2675,Bhatnagar
+2676,Optinika Company
+2677,Nashik Phata
+2678,Nashik Phata
+2679,Kendriya Vidyalay Lohgaon
+2680,More Baug
+2681,More Baug
+2682,M.Phule Mandai
+2683,Mohan Nagar
+2684,Shivaji Maharaj Putla Dapodi
+2685,Mohan Nagar
+2686,Mitramandal Sabhagruha
+2687,Jijamata Hospital
+2688,MIDC_Bhosari
+2689,Padmavati Power House
+2690,Padmavati Power House
+2691,Chinchwadgaon
+2692,Chinchwadgaon
+2693,Vasantdada Putala Sangavi
+2694,Navin Manapa Shala
+2695,Mahadev Mandir Sangavi
+2696,Makan Hospital
+2697,Wakad Phata (NB)
+2698,Wakad Phata (NB)
+2699,Lal Mandir
+2700,Jilha Parishad
+2701,Prateek Nagar
+2702,Dias Plot
+2703,Bhatnagar
+2704,Niramay Hospital
+2705,Niramay Hospital
+2706,Karve Putla 2
+2707,Mental Corner (NB)
+2708,Mental Corner(NB)
+2709,Khadki Power House
+2710,Khadki Power House
+2711,Manaji Baug
+2712,Shanti Nagar (NB)
+2713,Noble
+2714,Annapurna
+2715,CISV
+2716,Indrayani Corner
+2717,Landewadi Chowk
+2718,Landewadi Chowk
+2719,Viman Nagar Corner(NB)
+2720,Shreenagar
+2721,Neeta Park
+2722,Neeta Park
+2723,Rajashri Housing
+2724,Jagtapvasti
+2725,Wadegaon Phata
+2726,Wadegaon Phata
+2727,RSB
+2728,Ashish Garden 2
+2729,Ashish Garden 2
+2730,Tingarenagar
+2731,Tingarenagar
+2732,Dattanagar Katraj Road
+2733,Bharatinagar
+2734,Dongar Matha
+2735,Bhatnagar
+2736,Bharatinagar
+2737,Wadegaon Phata
+2738,Wadegaon Phata
+2739,Hadapsar Gadital Solapur Road
+2740,Landewadi
+2741,Balkawadevasti
+2742,Jadhavwadi Phata Chikhali
+2743,Shivtejnagar Chowk
+2744,Landewadi
+2745,Balewadi Stadium
+2746,Dongar Matha
+2747,Balewadi Stadium
+2748,Rahatani Phata
+2749,Gandhi Bhavan Phata
+2750,Prasanna Bungalow
+2751,Prasanna Bungalow
+2752,Shreeman Society
+2753,Chandani Chowk
+2754,Raghukul Society
+2755,Gosavivasti Karvenagar
+2756,Natraj Society Navsahyadri
+2757,Bank Of Maharashtra Navsahayadri
+2758,Sahwas Society
+2759,Natraj Society Navsahyadri
+2760,Raghukul Society
+2761,Chandani Chowk
+2762,Bank Of Maharashtra Navsahayadri
+2763,Vitthal Mandir Shreeman Society
+2764,Sasoon Hospital
+2765,Jadhav Vasti
+2766,Shikrapur Phata 2
+2767,TATA Guard Room (NB)
+2768,Netaji Highschool 2
+2769,Chandannagar (NB)
+2770,Sathe Biscuit NB
+2771,Sathe Biscuit NB
+2772,Swargate
+2773,Kamalnayan Bajaj School
+2774,Chinchwadgaon
+2775,Chinchwadgaon
+2776,COEP Hostel
+2777,Shivaji Chowk Hinjawadi
+2778,Nal Stop
+2779,Jagatguru Chowk
+2780,Park Spring Society
+2781,D Y Patil Main Gate
+2782,Ajinkya D Y Patil Vidyapeeth Lohagaon
+2783,Jagatguru Chowk
+2784,Park Spring Society
+2785,D Y Patil Main Gate
+2786,Ajinkya D Y Patil Vidyapeeth Lohagaon
+2787,Orchid Hospital
+2788,Fun Time
+2789,Katraj
+2790,Dhayari Phata
+2791,Yerawada Post Office
+2792,Indian Hume Company
+2793,Patil Colony
+2794,Anand Nagar
+2795,Santoshnagar
+2796,Morwadi Corner
+2797,Manikbaug
+2798,Dhayari Gaon
+2799,Raikarvasti
+2800,Indian Card Company
+2801,Vitthal Wadi
+2802,Ghode Peer
+2803,Chitrashala
+2804,Jijamatabaug
+2805,Ganesh Park
+2806,Bremen Chowk
+2807,Tingarenagar
+2808,Krushna Nagar Corner
+2809,Prashant Society
+2810,Kasturi Market
+2811,Neeta Park
+2812,Tech Mahindra Gate
+2813,Tech Mahindra Gate
+2814,Magzine
+2815,Magzine
+2816,Moze Vidyalay Alandi Road
+2817,Moze Vidyalay Alandi Road
+2818,Sai Mandir
+2819,Sai Mandir
+2820,Nirma Company
+2821,Nirma Company
+2822,Gokhale Mala
+2823,Gokhale Mala
+2824,Vadmukh Wadi
+2825,Vadmukh Wadi
+2826,Chovisawadi
+2827,Chovisawadi
+2828,Charoli Phata
+2829,Charoli Phata
+2830,Kate Vasti
+2831,Kate Vasti
+2832,Kalewadi Pump
+2833,Kalewadi Pump
+2834,Dehu Phata
+2835,Dehu Phata
+2836,ST Stand Alandi
+2837,ST Stand Alandi
+2838,Alandi
+2839,Alandi
+2840,Kothrud Depot
+2841,Galinde Path
+2842,Galinde Path
+2843,Orchid Hospital
+2844,Lohgaon Phata
+2845,Suyog School
+2846,Dimond Water Park
+2847,Poltry Farm
+2848,Phadke Haud
+2849,Lohgaon Phata
+2850,Suyog School
+2851,Shiva Garej
+2852,Kanchan Hotel
+2853,K J Collage
+2854,Mail No 19 Ghat Matha
+2855,Mail No 17
+2856,Bopdev Mandir
+2857,Talab Company
+2858,Askarwadi Phata
+2859,Shiva Garej
+2860,Divya Ashram
+2861,Kanchan Hotel
+2862,Malwadi
+2863,K J Collage
+2864,Bhivrigaon
+2865,Gaykwad Vasti
+2866,Manikgad Dhaba
+2867,Mail No 19 Ghat Matha
+2868,Kaniphnath Gad Phata
+2869,Mail No 17
+2870,Bopdev Gaon
+2871,Bopdev Mandir
+2872,Chambli Ganeshnagar
+2873,Talab Company
+2874,Chambli
+2875,Askarwadi Phata
+2876,Divya Ashram
+2877,Shendkar Mala
+2878,Katkevasti
+2879,Malwadi
+2880,Bhivrigaon
+2881,Bargane Mala
+2882,Hivregaon
+2883,Gaykwad Vasti
+2884,Manikgad Dhaba
+2885,Prathmik Shala
+2886,Kudit Gaon Phata
+2887,Sharda Lonce
+2888,Kodit Naka
+2889,Bopdev Gaon
+2890,Chambli Ganeshnagar
+2891,Chambli
+2892,Saswad Bus Stand
+2893,Shendkar Mala
+2894,Kodit Naka
+2895,Sharda Lonce
+2896,Katkevasti
+2897,Kudit Gaon Phata
+2898,Bargane Mala
+2899,Prathmik Shala
+2900,Hivregaon
+2901,Vaibhav Talkies
+2902,Atul Nagar
+2903,Atul Nagar
+2904,Desai Hospital
+2905,Vaibhav Talkies
+2906,Dhosnagar
+2907,Dhosnagar
+2908,Shivshambho Nagar
+2909,Shivshambho Nagar
+2910,Mauli Nagar
+2911,Mauli Nagar
+2912,Omkar Society
+2913,Omkar Society
+2914,Angrajnagar
+2915,Angrajnagar
+2916,Shingad Collage
+2917,Shingad Collage
+2918,Shubham Complex
+2919,Parulekar Vidyaniketan
+2920,Mauli Mangal Karyalay
+2921,Indori Phata
+2922,Indori Phata
+2923,Shubham Complex
+2924,Paisa Fund
+2925,Indorigaon
+2926,Sai Nagar
+2927,Bhandar City
+2928,Jangade Maharaj Mandir
+2929,Sadumbre gaon
+2930,Khalumbre
+2931,Poona Pressing Company
+2932,H.P.Chwok
+2933,H.P.Petrol Pump
+2934,Bajaj Company
+2935,Chakan Ambethan Chowk
+2936,Bajaj Company
+2937,H.P.Petrol Pump
+2938,H.P.Chwok
+2939,Soundarya Garden
+2940,Sai Nagar
+2941,Indorigaon
+2942,Indira Collage
+2943,Shankar Mandir
+2944,Bank Of India Dehuroad
+2945,Bank Of India Dehuroad
+2946,Shankar Mandir
+2947,Indira Collage
+2948,Dagdi Khaan
+2949,Gurudev Datta Nagar
+2950,Labour office
+2951,Lohegaon
+2952,Madhav Nagar
+2953,Mari Aai gate
+2954,Mula Road
+2955,PaachWad
+2956,Patil estate
+2957,Poultry Farm
+2958,Sapras Post Office
+2959,Shivaji Putla
+2960,Torna garden
+2961,Vishrantwadi
+2962,Wakde Wadi
+2963,S P College
+2964,Maharashtra Mandal
+2965,Sahitya Parishad
+2966,Police ground
+2967,Vishrantwadi
+2968,Pathan baba Darga
+2969,Wireless Colony
+2970,Parande Nagar
+2971,Telco Godown
+2972,Magazine
+2973,Gokhale mala
+2974,Vadmukh Wadi
+2975,Chovisawadi
+2976,Charoli Phata
+2977,Devpari Maharaj mandir
+2978,Thakur Vasti
+2979,Sai Complex
+2980,Richard Company
+2981,Shivam Industries
+2982,Steel tube company
+2983,Vadgaon Ghenand Shala
+2984,Khandoba Mandir
+2985,Koyali Phata
+2986,Shelgaon
+2987,Chakan phata
+2988,Shelpimpalgaon
+2989,Lokhandi Darwaja
+2990,Chincholi Phata
+2991,Mohitewadi
+2992,Bahulgaon Phata
+2993,Subhash Vidyalaya
+2994,Bahulgaon
+2995,Bopkhel
+2996,Pune station
+2997,Ruby Hall
+2998,Guruprasad Bungalow
+2999,Bund garden
+3000,Sadalbaba Dargah
+3001,Vishrantwadi
+3002,Kasturba General Hospital
+3003,Gandhi Acid Company
+3004,Shanti Medical Stores
+3005,Doodh Kendra
+3006,Ahilya Society
+3007,Shashtri Chowk
+3008,Maharashtra Chowk
+3009,Golibar Maidan
+3010,Juna Pool Gate
+3011,West End
+3012,Ambedkar Putla
+3013,Vishrantwadi
+3014,Charoli Gaon
+3015,Prateek Nagar
+3016,Jai Bhavaninagar
+3017,Anand Nagar
+3018,Ideal Colony
+3019,More Vidyalaya
+3020,Paud Phata
+3021,SNDT College
+3022,Nal Stop
+3023,Sonal Hall
+3024,Garware College
+3025,Police Line
+3026,Modern High School
+3027,Ma Na Pa
+3028,Shastrinagar Police Chowky
+3029,Mhasoba Gate
+3030,Pumping station
+3031,Mafatlal Bungalow
+3032,Pune Vidyapeeth
+3033,Bal Kalyan Sanstha
+3034,Gol Market
+3035,Kasturba Gandhi Vasahat
+3036,Sindh Colony
+3037,Breman Chowk
+3038,Body Gate
+3039,Aundh Gaon
+3040,Katraj
+3041,Sarpodyan
+3042,Bharti Vidyapeeth
+3043,Balaji Nagar
+3044,Padmavati
+3045,Date Stop
+3046,Sarang Society
+3047,Laxmi Nagar Corner
+3048,Shivdarshan
+3049,Parvati Darshan
+3050,Laxmi Narayan
+3051,Bhikardas Maruti
+3052,Shanipar
+3053,Appa Balawant Chowk
+3054,Dakshin Mukhi Maruti
+3055,Shaniwar Wada
+3056,Ma Na Pa_Mangala
+3057,Thergaon Phata
+3058,Padamji Mill
+3059,Birla Hospital
+3060,Walhekarwadi Corner
+3061,Chaphekar Chowk
+3062,Chinchwad Gaon
+3063,Hadapsar Gadital
+3064,Hadapsar Gaon
+3065,Magarpatta Hospital
+3066,Vaid Wadi
+3067,Ramtekdi
+3068,Kalubai Mandir
+3069,Fatima Nagar
+3070,Bhairoba Nala Police Chowk
+3071,Race Course
+3072,M.G. Bus Stand
+3073,G P O
+3074,Collector Office
+3075,SKF Company
+3076,Premlok Park
+3077,Indira Nagar
+3078,Bhoir Nagar
+3079,Jay Ganesh Vision
+3080,Akurdi chowk
+3081,Bajaj Auto
+3082,Pradhikaran Corner
+3083,Nigdi
+3084,Bhakti Shakti
+3085,Gadital
+3086,R T O
+3087,Datta Nagar
+3088,More Prekshakgruha
+3089,Lokmanya Hospital
+3090,Chinchwad Station
+3091,MIDC_Mohan Nagar
+3092,Mohan Nagar Corner
+3093,Hinjawadi Gaon
+3094,Infosys Company Phase 1
+3095,Wipro Company Circle
+3096,Emcure
+3097,Infosys Phase II
+3098,Power House Hinjawadi
+3099,Tata Motors/DLF Company
+3100,Tech Mahindra
+3101,Hinjawadi - Maan Phase 3
+3102,Kala Khadak Vasahat
+3103,Bhumkar Chowk
+3104,Santa Tukaram Mangal Karyalaya
+3105,Thermax Company Chowk
+3106,Prashant Society
+3107,Kasturi Market
+3108,Krushna Nagar Corner
+3109,Dhayareswar Mandir
+3110,Dhayari Gaon
+3111,Raikarvasti
+3112,Dhayari Phata
+3113,Patil Colony
+3114,Manikbaug
+3115,Ganesh Park
+3116,Anand Nagar
+3117,Hingne Khurd
+3118,Vitthal Wadi
+3119,Warje Malwadi
+3120,Dnyanesh Society
+3121,Malwadi
+3122,Warje Gaon
+3123,Tapodham
+3124,Wadacha Stop
+3125,Karve Putala
+3126,Maruti Mandir
+3127,Paud Phata Karve Road
+3128,Karve Bungalow
+3129,Law College
+3130,Balbharati
+3131,Sheti Mhamandal
+3132,Ramoshiwadi
+3133,Shivaji Hsg Society
+3134,Bahirat Wadi
+3135,Chatuhshrungi Paytha
+3136,Lokmanya Nagar
+3137,P.L. Deshpande udyan
+3138,Vitthalwadi Jakat Naka
+3139,Rajaram Pul
+3140,Poultry Farm
+3141,Dhayari Maruti Mandir
+3142,Akurdi khandoba maal
+3143,Goodluck Chowk
+3144,Fergusson College
+3145,Atlas
+3146,Century Enka Colony
+3147,Philips Company
+3148,MIDC_Bhosari
+3149,Bhosari Police Station
+3150,CIRT office
+3151,Bank of Maharashtra
+3152,Siemens
+3153,Shivaji chowk Hinjewadi
+3154,Katepuram Chowk
+3155,Pimple Gurav
+3156,Bhairav Nagar
+3157,Sudarshan Nagar
+3158,Vishal Nagar
+3159,Apple Hospital / Maruti Mandir
+3160,Gharkul
+3161,Ma Na Pa Shala
+3162,Nisarga Society
+3163,Kesnand phata
+3164,Bakuri Phata
+3165,Katke Vasti
+3166,Tulapur Phata / Fulgaon Phata
+3167,Perne Phata
+3168,Koregaon Bhima
+3169,Bafna Industries
+3170,Ekora Company / Kalyni Forge
+3171,Sanaswadi
+3172,B U Bhandari
+3173,Jakate Vasti
+3174,Shikrapur Phata / Chakan Road
+3175,NEI
+3176,Employment exchange office
+3177,Jilha Parishad State Bank
+3178,Vadgaon Phata
+3179,KEM Hospital
+3180,Alka Talkies
+3181,Kesri Wada
+3182,15 Aug Lodge / Somwar Peth
+3183,Fadke Haud / Dagdi Nagoba
+3184,Apollo Talkies
+3185,Jaidevnagar
+3186,Vitthalwadi jakat naka
+3187,Jal Shuddhikaran Kendra/Nirmiti
+3188,Panmala/Ramkrushna Math
+3189,Dandekar Pul
+3190,Parvati Payatha
+3191,Sarasbaug
+3192,Kharalwadi
+3193,HA Company
+3194,Vallabhnagar
+3195,Marshal Company
+3196,Alpha Laval Company
+3197,Phugewadi
+3198,Dapodi
+3199,Bopodi
+3200,Kirloskar Company
+3201,Alegaonkar Shala
+3202,khadki Bazar
+3203,Methodist Church
+3204,Tilekar Vasti
+3205,Magarpatta Manapa Shala
+3206,Bapusaheb Magar Vasti
+3207,Kirtane Baug
+3208,Dahanukar Colony
+3209,Mundhwa Gaon
+3210,Deccan Corner
+3211,Sasoon Hospital
+3212,Manjri stand farm
+3213,Laxmi Colony
+3214,15 No / Manjri Phata
+3215,Akashvani
+3216,Agrawal Colony
+3217,Sainath nagar / Ashok Hotel
+3218,patharevasti
+3219,Yerwada post
+3220,Nagpur Chawl
+3221,Sanjay park
+3222,Five o Nine Area
+3223,Kekan Gas Agency
+3224,Shantinagar
+3225,Police Line
+3226,Mula House
+3227,Amunition Factory gate
+3228,Pimpri
+3229,RD Colony
+3230,Kalasgaon
+3231,Mhaskevasti
+3232,Parade Ground
+3233,Dighi gaon
+3234,Godown
+3235,Maharastra Chowk
+3236,Telco hostel
+3237,Telco Company
+3238,KSB Chowk
+3239,Kamalnayan  Bajaj School
+3240,Ajanta nagar
+3241,Yamuna nagar
+3242,LIC corner
+3243,Somnath Nagar
+3244,Ahireshwar Wadi
+3245,Mukund Nagar
+3246,Apsara Talkies
+3247,Ramoshi Gate
+3248,Power House Rastapeth
+3249,Ghorpade Peth
+3250,Kalbhor nagar
+3251,Mehta hospital
+3252,Jayashree Talkies
+3253,Factory Road
+3254,Wagholi
+3255,Bombay Garage
+3256,Kharadi Gaon
+3257,Rakshak Nagar
+3258,IT Tower
+3259,Guard Room
+3260,Renuka Bungalow
+3261,Mhasoba Mandir
+3262,Arsnal Factory Gate
+3263,Electronic sadan
+3264,Ganeshnagar Telco Road
+3265,Birdvalley
+3266,ITI
+3267,Green Oaks Company
+3268,Dattamandir Vimannagar
+3269,Konark Nagar
+3270,Gangapuram Mhada
+3271,Sundrabai School
+3272,Kumbre park
+3273,Ashish Garden
+3274,Vanaz Corner
+3275,Jijamata Baug
+3276,Khulewadi
+3277,Guru Ganeshnagar
+3278,Sahajanand Society
+3279,Blind School
+3280,Yashwantrao Chavan Natyagruha
+3281,Chitrashala
+3282,Sadashiv Peth haud / Kunte Chowk
+3283,Vishram Baug Wada
+3284,Appa Balwant Chowk
+3285,West End/Arora Tower
+3286,Vadgaon Sheri
+3287,Patil Vasti
+3288,A D Camp Chowk
+3289,Ganeshnagar Alandi Road
+3290,Karhar Company
+3291,Raghuveernagar
+3292,Paraj Company
+3293,Yashwantnagar Kharadi
+3294,Rustun Company
+3295,Bite Vasti / Kalubai Mandir
+3296,Godown (Talera)
+3297,Vitthalwadi
+3298,Walke Vasti
+3299,Seco Company
+3300,Gupta Steel
+3301,Enfield Company
+3302,Laxmi Mandir
+3303,Bhairoba Nagar
+3304,Talegaon Dhamdhere Bazar
+3305,Pabalphata
+3306,Kirloskar Press
+3307,Maharshi Nagar Shala
+3308,Fun Time
+3309,Indian Hume Company
+3310,Holkar pool corner
+3311,Shewalwadi
+3312,Mega city
+3313,Amunition stores
+3314,Guerd Room
+3315,AIT College
+3316,HDFC
+3317,Match well company
+3318,Shram Safalya
+3319,Aler Ware Housing
+3320,Vishnu Udyog
+3321,Jog Enggineering
+3322,Punyanagri
+3323,Mahavirnagar
+3324,Tempo chowk
+3325,Kharadkarnagar
+3326,Khandve Nagar
+3327,Sai Satyam Society
+3328,Mati Ganpati - Narayan peth Police Chowky
+3329,Vivekanand Society
+3330,Soyrik Mangal Karyalay
+3331,Panmala
+3332,Satav High School
+3333,Bidi Kamgar Vasahat_Nagar RD
+3334,Holkar Water Works
+3335,Dattamandir Wadgaonsheri
+3336,Finolex Company
+3337,Empire Estate
+3338,ST colony
+3339,Bhapkar petrol pump
+3340,Natu Baug
+3341,Shankar maharaj math
+3342,Aranyeshwar Corner
+3343,Morebaug
+3344,Meera Society/Chakan Oil Mill
+3345,City Post
+3346,Gananjay Society
+3347,Wadia College
+3348,Viman nagar corner
+3349,Jagtap Dairy
+3350,Lonikand
+3351,Yashwantnagar Telco Road
+3352,Power House Indrayninagar
+3353,Century Enka Company
+3354,Kunal Icon
+3355,Planet Millennium
+3356,Kate Petrol pump
+3357,Sukhwani Lawns
+3358,Pimple Saudagar/Shankar Mandir
+3359,Kasturi Shikshan Sanstha
+3360,Pimple Saudagar Pump
+3361,Engineering College
+3362,Pune Station Depot
+3363,Hinjawadi Jakat Naka
+3364,Tata Johnson
+3365,Gharkul Corner
+3366,Shivar Chowk (NB)
+3367,Ganesh Nagar
+3368,Sai Puram Chowk
+3369,Mankar Chowk NB
+3370,Srushti Chowk
+3371,Bhekarai Depot
+3372,IBM
+3373,Tukai Darshan
+3374,Gondhale Nagar
+3375,Satavwadi
+3376,Rahatani Gaon
+3377,Kokane Chowk NB
+3378,M G Road
+3379,Vasantdada Putala Sangavi
+3380,Chandramani Nagar
+3381,PWD Colony
+3382,Panyachi Taki Sangavi
+3383,Sai Chowk Sangavi
+3384,Krushna Bazaar Chowk
+3385,Navin Manapa Shala
+3386,Om Medical
+3387,Anand Nagar Sangavi
+3388,Narsinha High School
+3389,Thergaon
+3390,Vanaz Company
+3391,Kulkarni Petrol Pump
+3392,Vrundavan
+3393,Karan Park
+3394,Sunita Nagar
+3395,Rahul Video
+3396,Badhai Sweets
+3397,Paranjape School
+3398,Ganeshnagar Anand Park
+3399,Shewalewadi Market
+3400,Rakshak Phase 1
+3401,Shastri Nagar (NB)
+3402,Vikrikar Karyalay
+3403,Vehicle Depot
+3404,Trikoni Baug
+3405,Draupadi Mangal Karyalaya
+3406,Agnishamak
+3407,Indrayani Corner
+3408,Banacha Odha
+3409,Durvankar
+3410,Gade Vasti
+3411,Shitej
+3412,Bekarnagar
+3413,Kailas Market
+3414,Corporation Bank
+3415,Konark Campus
+3416,Vimannagar
+3417,Radison Hotel
+3418,Sangharsh Nagar
+3419,Saibaba
+3420,TATA Guard Room (NB)
+3421,Yerwada Gaon 2
+3422,Kachara Depot
+3423,Netaji Highschool 2
+3424,Vadgaonsheri Phata (NB)
+3425,Swargate  Depo
+3426,Deccan College(NB)
+3427,Sulbha Mangal Karyalay
+3428,Bhosale Garden Saswad Road
+3429,Paramount Garden
+3430,Upper Depot
+3431,Upper Indiranagar
+3432,State Bank Colony
+3433,Chintamaninagar
+3434,Lower Indiranagar
+3435,Bharat Jyoti
+3436,Bibvewadi
+3437,Kothari
+3438,Vasantbaug
+3439,ESI Hospital
+3440,Pushp Mangal
+3441,COEP Hostel
+3442,Savarkar Bhavan
+3443,Dhanori Gaon
+3444,Dhanori Shala
+3445,Gurudev Datta Nagar
+3446,Kamal Park
+3447,Labour office
+3448,Lohegaon
+3449,Mari Aai gate
+3450,Ma Na Pa
+3451,Mula Road
+3452,PaachWad
+3453,Patil estate
+3454,Poultry Farm
+3455,Sapras Post Office
+3456,Sathe Nagar
+3457,Vishrantwadi
+3458,Wakde Wadi
+3459,Natraj
+3460,Deccan Gymkhana
+3461,Sahitya Parishad
+3462,Maharashtra Mandal
+3463,S P College
+3464,Abhinav College
+3465,Swargate
+3466,Vishrantwadi
+3467,Pathan baba Darga
+3468,Wireless Colony
+3469,Telco Godown
+3470,Magazine
+3471,Gokhale mala
+3472,Vadmukh Wadi
+3473,Chovisawadi
+3474,Charoli Phata
+3475,Kate Vasti
+3476,Kalewadi
+3477,Vitthal Baba Darga
+3478,Devpari Maharaj mandir
+3479,Sai Complex
+3480,Richard Company
+3481,Koyali Phata
+3482,Chakan phata
+3483,Shelpimpalgaon
+3484,Lokhandi Darwaja
+3485,Chincholi Phata
+3486,Mohitewadi
+3487,Bahulgaon Phata
+3488,Bopkhel
+3489,Sadalbaba Dargah
+3490,Bund Garden
+3491,Guruprasad Bungalow
+3492,Jahangir Hospital
+3493,Alankar Talkies
+3494,G P O 2
+3495,Pune Station
+3496,Vidyanagar
+3497,Shanti Medical Stores
+3498,Gandhi Acid Company
+3499,Kasturba General Hospital
+3500,Ahilya Society
+3501,Doodh Kendra
+3502,Maharashtra Chowk
+3503,Shashtri Chowk
+3504,West End
+3505,Juna Pool Gate
+3506,Golibar Maidan
+3507,Shivaji Putla
+3508,Ma Na Pa
+3509,Baal Gandharva
+3510,Garware College
+3511,Sonal Hall
+3512,SNDT College
+3513,Paud Fata
+3514,More Vidyalaya
+3515,Ideal Colony
+3516,Anand Nagar
+3517,Jai Bhavaninagar
+3518,Shastri Nagar Police Chowki
+3519,Kothrud Depot
+3520,Mhasoba Gate
+3521,Pumping station
+3522,Pune Vidyapeeth
+3523,Bal Kalyan Sanstha
+3524,Gol Market
+3525,Kasturba Gandhi Vasahat
+3526,Sindh Colony
+3527,Breman Chowk
+3528,Body Gate
+3529,Aundh Gaon
+3530,E-Square
+3531,Katraj
+3532,Sarpodyan
+3533,Bharti Vidyapeeth
+3534,Balaji Nagar
+3535,Padmavati
+3536,Date Stop
+3537,Dnyaneshwar Society
+3538,Sarang Society
+3539,Shivdarshan
+3540,Laxmi Narayan
+3541,Bhikardas Maruti
+3542,Ma Na Pa_Mangala
+3543,Thergaon Phata
+3544,Padamji Mill
+3545,Birla Hospital
+3546,Chinchwad Gaon
+3547,Vasant Talkies
+3548,Hadapsar Gadital
+3549,Hadapsar Gaon
+3550,Magarpatta Hospital
+3551,Vaid Wadi
+3552,Ramtekdi
+3553,Kalubai Mandir
+3554,Fatima Nagar
+3555,Bhairoba Nala Police Chowk
+3556,Race Course
+3557,Kumbharwada
+3558,SKF Company
+3559,Premlok Park
+3560,Indira Nagar
+3561,Bhoir Nagar
+3562,Jay Ganesh Vision
+3563,Akurdi chowk
+3564,Bajaj Auto
+3565,Nigdi
+3566,Bhakti Shakti
+3567,R T O
+3568,Datta Nagar
+3569,Elpro Company
+3570,More Prekshakgruha
+3571,Lokmanya Hospital
+3572,Chinchwad Station
+3573,MIDC_Mohan Nagar
+3574,Mohan Nagar Corner
+3575,Hinjawadi Gaon
+3576,Infosys Company Phase 1
+3577,Wipro Company Circle
+3578,Emcure
+3579,Infosys Phase 2
+3580,Power House Hinjawadi
+3581,Tata Motors/DLF Company
+3582,Tech Mahindra
+3583,Hinjawadi - Maan Phase 3
+3584,Kala Khadak Vasahat
+3585,Bhumkar Chowk
+3586,Santa Tukaram Mangal Karyalaya
+3587,Thermax Company Chowk
+3588,Dnyanesh Society
+3589,Malwadi
+3590,Warje Gaon
+3591,Tapodham
+3592,Wadacha Stop
+3593,Sanjay Park
+3594,Kothrud Stand
+3595,Maruti Mandir
+3596,Paud Phata Karve Road
+3597,Abhinav Institute
+3598,Film Institute
+3599,Bhandarkar Road
+3600,Sheti Mhamandal
+3601,Shivaji Housing Society
+3602,Bahirat Wadi
+3603,Chaturshrungi Paytha
+3604,Balbharati
+3605,Nal Stop B
+3606,Prateek Nagar
+3607,Lokmanya Nagar
+3608,Ganesh Mala
+3609,P.L. Deshpande udyan
+3610,Rajaram Pul
+3611,Akurdi khandoba maal
+3612,Atlas
+3613,Century Enka Colony
+3614,Philips Company
+3615,Bhosari Police Station
+3616,CIRT office
+3617,Bank of Maharashtra
+3618,Geometric Chowk
+3619,Siemens
+3620,Shivaji chowk Hinjewadi
+3621,Katepuram Chowk
+3622,Pimple Gurav
+3623,Bhairav Nagar
+3624,Sudarshan Nagar
+3625,Vishal Nagar
+3626,Apple Hospital / Maruti Mandir
+3627,Gharkul
+3628,Ma Na Pa Shala
+3629,Nisarga Society
+3630,Annasaheb Magar Stadium
+3631,Kesnand phata
+3632,Bakuri Phata
+3633,Katke Vasti
+3634,Tulapur Phata / Fulgaon Phata
+3635,Perne Phata
+3636,Koregaon Bhima
+3637,Ekora Company / Kalyni Forge
+3638,Sanaswadi
+3639,B U Bhandari
+3640,Jakate Vasti
+3641,Shikrapur Phata / Chakan Road
+3642,NEI
+3643,Employment exchange office
+3644,Jilha Parishad State Bank
+3645,Vadgaon Phata
+3646,KEM Hospital
+3647,Kesri Wada
+3648,15 Aug Lodge / Somwar Peth
+3649,Fadke Haud / Dagdi Nagoba
+3650,Apollo Talkies
+3651,Hingne Khurd
+3652,Garmal
+3653,Jaidevnagar
+3654,Jal Shuddhikaran Kendra/Nirmiti
+3655,Panmala/Ramkrushna Math
+3656,Dandekar Pul
+3657,Parvati Payatha
+3658,Vidyanagar
+3659,Kharalwadi
+3660,HA Company
+3661,Indian Card Company
+3662,Vallabhnagar
+3663,Marshal Company
+3664,Sandvik company
+3665,Phugewadi
+3666,Dapodi
+3667,Bopodi
+3668,Alegaonkar Shala
+3669,khadki Bazar
+3670,Methodist Church
+3671,Tilekar Vasti
+3672,Magarpatta Manapa Shala
+3673,Bapusaheb Magar Vasti
+3674,Kirtane Baug
+3675,Dahanukar Colony
+3676,Ambedkar Bhavan
+3677,Mundhwa Gaon
+3678,Deccan Corner
+3679,Mile Dagad Kramank 22 Pirangutghat
+3680,Balgandharv
+3681,Manjri stand farm
+3682,Laxmi Colony
+3683,15 No / Manjri Phata
+3684,Akashvani
+3685,Agrawal Colony
+3686,Sainath nagar / Ashok Hotel
+3687,patharevasti
+3688,Yerwada post
+3689,Nagpur Chawl
+3690,Sanjay park
+3691,Five o Nine Area
+3692,Kekan Gas Agency
+3693,Shantinagar
+3694,Mula House
+3695,Amunition Factory gate
+3696,Pimpri
+3697,RD Colony
+3698,Sainik Wadi
+3699,Kalasgaon
+3700,Mhaskevasti
+3701,Parade Ground
+3702,Dighi gaon
+3703,Godown
+3704,Maharastra Chowk
+3705,Gavli mala
+3706,Telco Company
+3707,KSB Chowk
+3708,Kamalnayan Bajaj School
+3709,Ajanta nagar
+3710,LIC corner
+3711,Somnath Nagar
+3712,Ahireshwar Wadi
+3713,Mukund Nagar
+3714,Giridharbhavan
+3715,Apsara Talkies
+3716,Ramoshi Gate
+3717,Nana Path / Modern Bakery
+3718,Power House Rastapeth
+3719,Ghorpade Peth
+3720,Kalbhor nagar
+3721,Factory Road
+3722,sadalbaba darga
+3723,Wagholi
+3724,Bombay Garage
+3725,Rakshak Nagar
+3726,IT Tower
+3727,Guard Room
+3728,Renuka Bungalow
+3729,Mhasoba Mandir
+3730,Arsnal Factory Gate
+3731,Electronic sadan
+3732,Ganeshnagar Telco Road
+3733,Birdvalley
+3734,ITI
+3735,Green Oaks Company
+3736,Dattamandir Vimannagar
+3737,Konark Nagar
+3738,Sundrabai School
+3739,Kumbre Park
+3740,Ashish Garden
+3741,Vanaz Corner
+3742,Jijamata Baug
+3743,Khulewadi
+3744,Guru Ganeshnagar
+3745,Sahajanand Society
+3746,Blind School
+3747,Yashvantrao Chavan Auditorium
+3748,Chitrashala / Vijay Talkies
+3749,10 Wa Mile Wadki
+3750,West End/Arora Tower
+3751,10 Wa Mile Wadki
+3752,Vadgaon Sheri
+3753,Patil Vasti
+3754,Abhuyuday Bank
+3755,A D Camp Chowk
+3756,Chaphekar Chowk
+3757,Karhar Company
+3758,Lal Mandir
+3759,Raghuveernagar
+3760,Vadachi Talim
+3761,Yashwantnagar Kharadi
+3762,Rustun Company
+3763,Bite Vasti / Kalubai Mandir
+3764,Suskhind Phata
+3765,Ganeshnagar Navlakh Umbre Road
+3766,Walke Vasti
+3767,Morwadi Chowk
+3768,Kranti Stambh / Waghmare Vasti
+3769,Pashan Naka
+3770,Gupta Steel
+3771,Sunrise Residency
+3772,Enfield Company
+3773,Mukai Chowk
+3774,Talegaon Phata ST Stand
+3775,Laxmi Mandir
+3776,Lonigaon Phata
+3777,Mitra Mandal Sabhagruha
+3778,Bhairoba Nagar
+3779,Ganpati Mandir Sambhajinagar
+3780,ST Stand Grampanchayat Talegaon
+3781,Talegaon Dhamdhere Bazar
+3782,Chakradhar Shala
+3783,Nehrunagar Corner
+3784,Pabalphata
+3785,Kirloskar Press
+3786,Vadachivasti
+3787,Maharshi Nagar Shala
+3788,Raj Group
+3789,Holkar pool corner
+3790,ST Regional Office
+3791,Hotel Mahima
+3792,Shewalwadi
+3793,Bank Of India Dehuroad
+3794,Mega city
+3795,Benkarvasti
+3796,Khadi Machine Katraj Kondhwa Road
+3797,Amunition stores
+3798,Guerd Room
+3799,Malwadi Naigaon
+3800,AIT College
+3801,Tulsi Chemicals
+3802,Nimbalkarvasti
+3803,HDFC
+3804,Match well company
+3805,Sairang Dhaba
+3806,Dattamandir Pashan Road
+3807,Shram Safalya
+3808,Vijay Oil Mill
+3809,Wadeshwar
+3810,Vishnu Udyog
+3811,Jog Enggineering
+3812,Mahatma Gandhi Bas Sthanak
+3813,Anandnagar Sinhagad Road
+3814,Mahavirnagar
+3815,Tupemala
+3816,Tempo chowk
+3817,Sinhgad Hotel
+3818,Kharadkarnagar
+3819,Khandve Nagar
+3820,Nanasaheb Karpe Chowk
+3821,Sai Satyam Society
+3822,Poultry Farm Kandhare
+3823,Mati Ganpati - Narayan peth Police Chowky
+3824,Limb Center
+3825,Vivekanand Society
+3826,Raviraj Residency
+3827,Panmala
+3828,Gopi Chal
+3829,Satav High School
+3830,Mundhwa Phata
+3831,Bidi Kamgar Vasahat_Nagar RD
+3832,Holkar Water Works
+3833,Botanical Garden
+3834,Dattamandir Wadgaonsheri
+3835,Finolex Company
+3836,DY Patil College Akurdi
+3837,Empire Estate
+3838,ST colony
+3839,Bhapkar petrol pump
+3840,Natu Baug
+3841,Shankar maharaj math
+3842,Indrayani Pul Markal Road
+3843,Aranyeshwar Corner
+3844,Morebaug
+3845,Maruti Mandir Talegaondabhade Road
+3846,Meera Society/Chakan Oil Mill
+3847,Income Tax
+3848,D2 Circle
+3849,City Post
+3850,Gananjay Society
+3851,Wadia College
+3852,Jagtap Dairy
+3853,Pinglevasti
+3854,Nashik phata
+3855,Raghavdas Shala
+3856,Lonikand
+3857,Divegaon
+3858,Nehru Stadium
+3859,Yashwantnagar Telco Road
+3860,Runwal Society
+3861,Power House Indrayninagar
+3862,Indrayani Pul Talawade Road
+3863,Century Enka Company
+3864,Panchwati
+3865,Kadvasti Waki
+3866,Gavhane vasti
+3867,Kunal Icon
+3868,Planet Millennium
+3869,Sukhwani Lawns
+3870,B Sub Depot
+3871,Pimple Saudagar/Shankar Mandir
+3872,Kasturi Shikshan Sanstha
+3873,Pimple Saudagar Pump
+3874,Gole Phata
+3875,Modern High School
+3876,Patrya Maruti
+3877,Spicer India Company
+3878,Krushna Mandir
+3879,Pune Station Depot
+3880,Hinjawadi Jakat Naka
+3881,Tata Johnson
+3882,HMR Company
+3883,Collector Kacheri
+3884,Raviraj Hotel
+3885,Gharkul Corner
+3886,Sheti Mahamandal
+3887,Shivar Chowk(NB)
+3888,Kasba Peth Police Chowki
+3889,Gokul Bhavan
+3890,Ganesh Nagar
+3891,Rosary School Corner
+3892,Sai Puram Chowk
+3893,Ghotawade Phata
+3894,Mankar Chowk NB
+3895,Mundhwa Bypass
+3896,Srushti Chowk
+3897,Bhekarai Depot
+3898,Yerwada
+3899,General Motors
+3900,IBM
+3901,Daulatnagar Dhankawadi Road
+3902,Tukai Darshan
+3903,Diamond  Miter Company
+3904,Gondhale Nagar
+3905,Hawaldarvasti
+3906,Satavwadi
+3907,Rahatani Gaon
+3908,ST Stand Alandi
+3909,Ganesh Mandir
+3910,Vajewadi Chaufula
+3911,Kokane Chowk NB
+3912,Pune Vidyapeeth
+3913,Bundgarden
+3914,Vahtuknagari
+3915,Chandramani Nagar
+3916,PWD Colony
+3917,Panyachi Taki Sangavi
+3918,Mile Dagad Kramank 9
+3919,Sai Chowk Sangavi
+3920,Indori Bypass Phata
+3921,Krushna Bazaar Chowk
+3922,Sant Sai Chowk
+3923,Lokmangal
+3924,Mhatre Pul
+3925,Thergaon
+3926,Ganga Ocean Park
+3927,Dias Plot
+3928,Vanaz Company
+3929,Chintamani Society Manjri Road
+3930,Kulkarni Petrol Pump
+3931,Alandi
+3932,Agalambe Phata
+3933,Vrundavan
+3934,Agnishamak Kendra Landewadi
+3935,Karan Park
+3936,Sunita Nagar
+3937,Alpha Paper Mill
+3938,Rahul Video
+3939,Kondhwa Shala
+3940,Badhai Sweets
+3941,Paranjape School
+3942,Sonya Maruti Chowk
+3943,Star Garden
+3944,Ganpati Chowk 2
+3945,Common Wealth
+3946,Kalbhairav Mandir
+3947,Shewalewadi Market
+3948,Blue Diamond Hotel
+3949,Rakshak Phase 1
+3950,Detwayalar Company
+3951,Shastri Nagar (NB)
+3952,Vikrikar Karyalay
+3953,Sai Industries
+3954,Vehicle Depot
+3955,Yerwada Post Office
+3956,Trikoni Baug
+3957,Manaji Baug
+3958,Draupadi Mangal Karyalaya
+3959,DP Road
+3960,Annapurna
+3961,Banacha Odha
+3962,Sambaji Pul Police Chowky
+3963,Durvankar
+3964,Ghorpadi Peth
+3965,Cores Company
+3966,Rajashri Housing
+3967,Gade Vasti
+3968,Morwadi Chowk
+3969,Navsahayadri
+3970,Shitej
+3971,Shasakiya vishramgruha paudgaon
+3972,Viman Nagar Corner(NB)
+3973,Bekarnagar
+3974,Kailas Market
+3975,Burkegaon
+3976,Corporation Bank
+3977,Konark Campus
+3978,Vimannagar
+3979,Radison Hotel
+3980,Raykarvasti
+3981,Shaniwarwada Stand
+3982,Sangharsh Nagar
+3983,Godown Gultekdi
+3984,Saibaba
+3985,Ganeshnagar Anand Park
+3986,Yerwada Gaon 2
+3987,Kachara Depot
+3988,Kakdevasti
+3989,Trimurti Hall
+3990,RSB
+3991,Netaji Highschool 2
+3992,Vadgaonsheri Phata (NB)
+3993,Traffic Police Chowky
+3994,Swargate Depo
+3995,Natraj Stand
+3996,Gadkarivasti
+3997,Deccan College(NB)
+3998,Dattanagar Alandi Road
+3999,Dongargaon Phata
+4000,Sulbha Mangal Karyalay
+4001,Nagarpalika Office
+4002,Bhosale Garden Saswad Road
+4003,Paramount Garden
+4004,Upper Depot
+4005,Shreenagar
+4006,Upper Indiranagar
+4007,State Bank Colony
+4008,Sahkarnagar
+4009,Chintamaninagar
+4010,Lower Indiranagar
+4011,Mohammadwadi Shala
+4012,Bharat Jyoti
+4013,Bibvewadi
+4014,Gunjan Corner
+4015,Kothari
+4016,Shahu Chowk
+4017,Vasantbaug
+4018,Vadarwadi
+4019,ESI Hospital
+4020,Pushp Mangal
+4021,Madiwale Colony
+4022,Wadia Bungalow
+4023,Queen Bajal Company
+4024,Hadapsar Gadital
+4025,Ambedkar Society
+4026,Atulnagar
+4027,Ambedkar Society
+4028,Aundh Hospital
+4029,Aundh Hospital
+4030,Jamadarvasti
+4031,Mahadev Mandir Mehendale Garage
+4032,Aundh Hospital
+4033,Bharati Vidyapeeth
+4034,Bhimnagar
+4035,Gosavivasti Karvenagar
+4036,Bhimnagar
+4037,Neeta Park Pimple Nilakh
+4038,Bhosari PMT Chowk
+4039,Paranjpe Scheme Dagadevasti
+4040,Bhosari PMT Chowk
+4041,Smashan Bhumi Rasta
+4042,Mohannagar Chinchwad
+4043,Bhosari Terminal
+4044,Bhosari Terminal
+4045,Chinchwadgaon
+4046,Bungalow Number 116
+4047,Sanasbaug
+4048,Shivapurbaug
+4049,Gangadham
+4050,Chinchwadgaon
+4051,Khadki Station
+4052,Chinchwadgaon
+4053,Dagadevasti
+4054,Royal Park
+4055,Mental Corner
+4056,Deccan College Corner
+4057,Deccan College(NB)
+4058,Vadachiwadi
+4059,Deshmukhwadi
+4060,Midc Office
+4061,Dnyaneshwar Paduka
+4062,Wakad Chowk
+4063,Dnyaneshwar Paduka
+4064,Dudhanevasti
+4065,Date Engineering
+4066,Engineering College
+4067,Donajegaon
+4068,Gadital
+4069,Trimurti Bungalow
+4070,Ganeshmala
+4071,Krushnai Mangal Karyalay
+4072,Ganjavewadi
+4073,Gorhe Bk Shala
+4074,GPO
+4075,Keshavnagar Ma Na Pa Shala
+4076,Gunjan corner
+4077,Dhangarvasti
+4078,Khamboli
+4079,Harihareshwar Mandir
+4080,Ingale Colony
+4081,Nasrapur
+4082,Balajinagar Corner
+4083,Jadhavwadi Khadakwasla Road
+4084,Jadhavwadi Khadakwasla Road
+4085,Bapurao Smarak
+4086,Jahangir Hospital
+4087,Krushna Mandir Corner
+4088,Jambhulakaravasti
+4089,Karvenagar
+4090,Karvenagar
+4091,Shaninagar
+4092,Karvenagar
+4093,Karvenagar Corner
+4094,Karvenagar Corner
+4095,Raje Shivajinagar Phata
+4096,Walhekarwadi
+4097,Kasarwadi
+4098,Katraj
+4099,Chandannagar
+4100,Katraj
+4101,Dhanwantari Hospital
+4102,Kondhwagate
+4103,Manik Colony
+4104,Dudhanevasti
+4105,Kothrud Depot
+4106,Ghulevasti Manjari
+4107,Kothrud Stand
+4108,Kumbharwada
+4109,Mahindra Company Gate Number 2
+4110,Ingwale Chowk Cornar
+4111,Mahindra Company Gate Number 2
+4112,Mahindra Company Gate Number 3
+4113,Nishigandha Farm
+4114,Mahindra Company Gate Number 3
+4115,Shreeramnagar
+4116,Ma Na Pa Dengle Pul
+4117,Ma Na Pa Dengle Pul
+4118,MES Canteen NDA
+4119,Splender Country Club Gate Kramank
+4120,Ma Na Pa Dengle Pul
+4121,Mariaai Mandir
+4122,Marketyard
+4123,Marodo Company
+4124,Nal Stop
+4125,Sanaswadi Nandoshi
+4126,Sarbatwala Chowk
+4127,Nana Peth
+4128,Nana Peth
+4129,Santkrupa Fabrication
+4130,Sukhsagarnagar
+4131,Nana Peth
+4132,Nana Peth Laxmi road
+4133,Tapkirvasti Susgaon
+4134,Khandoba Mandir Corner
+4135,Moi Phata
+4136,Phulenagar
+4137,Phulenagar
+4138,Bhandarkar Road
+4139,Police Workshop
+4140,Bhaurao Patil Chowk
+4141,IBP Pump
+4142,Prayag Dham Phata
+4143,Pune Vidhyapeeth
+4144,Pune Vidhyapeeth
+4145,Juna Pulgate
+4146,Khadki Post
+4147,Pune Vidhyapeeth Gate
+4148,Pune Vidhyapeeth Gate
+4149,Pune Vidhyapeeth Gate Aundh Road
+4150,Pune Vidhyapeeth Gate Aundh Road
+4151,Annapurna
+4152,Kondhwagate Colony Number 10
+4153,Mahadev Mandir Sangvi
+4154,Pune Vidhyapeeth Gate Baner Road
+4155,Pune Vidhyapeeth Gate Pashan Road
+4156,Pawar Quarters
+4157,Rahul Park Gate Number 4
+4158,Rajas Society
+4159,Rajas Society
+4160,Rajwade Bungalow
+4161,","
+4162,Panyachi Taki Undri
+4163,Rashmi Apartment
+4164,Rangehill Corner
+4165,Sangam Metal Company
+4166,Sant Tukaramnagar
+4167,Dehugaon
+4168,Sarpodyan
+4169,Navlakha Godown
+4170,Shankarwadi
+4171,Shankarwadi
+4172,Stage Kramank 7
+4173,Shewalwadi Rehe
+4174,Shahu Colony
+4175,Shewalwadi Rihe
+4176,Shivaji Maharaj Putla Marketyard
+4177,Dehu Grampanchayat
+4178,Shiwne
+4179,Vadarvasti
+4180,Swargate
+4181,Sakhrevasti
+4182,Swargate
+4183,Kusalkar Putala
+4184,Lullanagar
+4185,Viskar India Company
+4186,Ramnagar Bopkhel
+4187,Wadia College
+4188,Yelwadi Phata
+4189,Yelwadi Phata
+4190,Dnyaneshwar Bhint
+4191,Newale Chowk
+4192,Ishanagari
+4193,Jadhavwadi Phata Chikhali
+4194,Kunjirwadi Phata
+4195,Ghotawade Phata
+4196,Girme Park
+4197,Narhegaon
+4198,Maan
+4199,Mukbadhir Shala
+4200,Mata vaishnavi devi mandir
+4201,Indrayani nagar
+4202,Sunshine plaza
+4203,Dugad Farm
+4204,yashwantrao chavan chowk
+4205,Dattanagar Katraj Road
+4206,Rajdeep Engineering
+4207,Ravet Chowk
+4208,Vishweshwar Chowk
+4209,Thermax Chowk
+4210,Nehrunagar Depot
+4211,Pradeep engineering
+4212,Khande Vasti
+4213,Chaudhari vasti  Phata
+4214,Jay Bhavani Hardware
+4215,Akurdi Railway Station
+4216,Khandewasti Chowk Spine road
+4217,Shitolevasti Susgaon
+4218,Tulsi Land mark
+4219,Sai Chowk Pashan Sus Road
+4220,Richwood Society
+4221,Tarwadevasti
+4222,Shubham Bangla
+4223,Shivshrushti park chowk sector no 13
+4224,Canal
+4225,Sanjay Residency
+4226,Jspm College
+4227,Rajendranagar
+4228,CNG Pump
+4229,CNG Pump
+4230,Annasaheb Magar Stadium
+4231,Sanjay Residency
+4232,A Ward Office
+4233,Shivshrushti park chowk sector no 13
+4234,Balaji Chowk
+4235,Shubham Bangla
+4236,Richwood Society
+4237,Panmala
+4238,Tathwade
+4239,Tulsi Land mark
+4240,Khandewasti Chowk Spine road
+4241,Vilas Nandgude Niwas
+4242,Nutan Vidyalaya
+4243,Jay Bhavani Hardware
+4244,Khande vasti
+4245,Vadgaon Sheri Phata
+4246,Military Hospital Rangehills
+4247,Vishweshwar Chowk
+4248,Rajdeep Engineering
+4249,Phulenagar Landewadi
+4250,yashwantrao chavan chowk
+4251,Sunshine plaza
+4252,Mata vaishnavi devi mandir
+4253,Tata HoneyWell Company
+4254,Jadhavwadi Chikhali
+4255,Runwal Project
+4256,Kalyaninagar
+4257,Shitla devi chowk
+4258,Janseva Hospital
+4259,Jeevan Shikshan Mandir Vanjalwadi
+4260,Mamurdi Gaon
+4261,Patil Vasti
+4262,Gunjan Corner
+4263,Hegdewar Bhavan
+4264,Gahunje Phata
+4265,Dhamalevasti Nandegaon
+4266,Sai Nagar
+4267,Ghotwadegaon Phata
+4268,Sai Nagar
+4269,Gahunje Phata
+4270,Bhaji Market
+4271,Patil Vasti
+4272,Dakshinmukhi Maruti
+4273,Bungalow Number 158
+4274,Mamurdi Gaon
+4275,Janseva Hospital
+4276,Petrol Pump Dhanora
+4277,Shitla devi chowk
+4278,Shivaji Vidhyalay
+4279,Ramnagar
+4280,Vidhyanagar
+4281,Rajendranagar
+4282,HDFC Bank
+4283,Bandhan Sweet Mart
+4284,Bandhan Sweet Mart
+4285,Panmala
+4286,HDFC Bank
+4287,Vidhyanagar
+4288,Materevasti
+4289,Ramnagar
+4290,Kendriya Vidyalay Yerawada
+4291,United Western Sabhagrugha
+4292,Ramnagar Corner
+4293,Ashwaryam soc.
+4294,Uruli Kanchan
+4295,Manoharnagar
+4296,Bharat Ele Company
+4297,Kondhwa Kh
+4298,Loni Station
+4299,Inland Containors
+4300,Dr Sayyad Dawakhana
+4301,Ashoka Bungalow
+4302,Balkawadevasti
+4303,Theur Phata
+4304,Morwadi Chowk
+4305,Sutarwadi Pashan
+4306,Chillal Masala Company
+4307,Rakshalekha Society
+4308,Gavali Matha
+4309,Gokulnagar Narhe Road
+4310,Kawdipat
+4311,Dwarka City Phata
+4312,Dwarka City Phata
+4313,Sai Industries
+4314,Sutarwadi Bus Stand
+4315,Kasarsai Karkhana
+4316,Sutarwadi Bus Stand Up
+4317,Satavwadi
+4318,Mhalunge Gaon
+4319,Tilakbaug
+4320,Mhalunge Gaon
+4321,Kunjirvasti
+4322,Ranmala Hotel
+4323,Ranmala Hotel
+4324,Sant Tukaram MNP School
+4325,Mental Corner
+4326,Sant Tukaram MNP School
+4327,Mohakarwadi
+4328,Sai Garden Bulding
+4329,IIMS Institute
+4330,Sai Garden Bulding
+4331,Indoorance Company Chakan Mhalunge
+4332,International Pre School
+4333,Sandesh Model Colony
+4334,International Pre School
+4335,Sayli Restaurant
+4336,Kolte Patil Project
+4337,Kolte Patil Project
+4338,Oswal Bandhu Estate
+4339,D Mart
+4340,Radha Hotel
+4341,D Mart
+4342,Shinde Farm Kusgaon Road
+4343,Akurdi gaon
+4344,Kedarinagar Corner
+4345,Na Ta Wadi
+4346,MaNaPa Davakhana
+4347,Shikshak Society
+4348,Garisson Engineering
+4349,Kamshet
+4350,Kamshet
+4351,Kamshet Corner
+4352,Shindevasti Dongergaon
+4353,Kamshet Corner
+4354,Bhaji Mandai
+4355,Dabhadevasti Perane Road
+4356,Naygaon
+4357,Naygaon
+4358,Saidham
+4359,Link Road
+4360,Saidham
+4361,Harpalevasti Fursungi
+4362,Kanhe Phata
+4363,Panjabi Hotel
+4364,Panjabi Hotel
+4365,Parmarnagar
+4366,Bramhanwadi
+4367,Shiwarkar Garden
+4368,Bramhanwadi
+4369,Vadgaon Vairles
+4370,Vadgaon Vairles
+4371,Wirless Station
+4372,Wirless Station
+4373,Torana Garden
+4374,NDA Gate Colony 10
+4375,Vadgaonmawal Phata
+4376,Vadgaonmawal Phata
+4377,Bhosale Petrol Pump
+4378,Om Ayran Chowk
+4379,Vipraj Company
+4380,Indrayani Darshan
+4381,Vipraj Company
+4382,Sandhyanagar
+4383,Bhamchandra Vidhyalay Vasuli
+4384,Vakhar Mahamandal Bhosari
+4385,Bhamchandra Vidhyalay Vasuli
+4386,Vasuli Phata
+4387,Galinde Path
+4388,Vasuli Phata
+4389,Ganeshnagar Ambegaon Pathar
+4390,Bhomboli Phata
+4391,Bhomboli Phata
+4392,Kirloskar Company
+4393,Bob International School
+4394,Marshal Company Savardari
+4395,Chikhali
+4396,Marshal Company Savardari
+4397,Savardari Phata
+4398,Dnyanesh Society
+4399,Savardari Phata
+4400,Hyundai Gate
+4401,Tapkirnagar Charholi
+4402,Hyundai Gate
+4403,Darshan Hall
+4404,Hyundai Chowk
+4405,Ovhalvasti
+4406,Hyundai Chowk
+4407,DSV Company
+4408,Banacha Odha
+4409,DSV Company
+4410,Sangvi College
+4411,Ghulevasti Manjari
+4412,Sangvi College
+4413,Kondhwa Bk Corner
+4414,Vanwadi Police Station
+4415,Dangat Patilnagar
+4416,Dangat Patilnagar
+4417,PK Biryani House
+4418,Chhajed Petrol Pump
+4419,PK Biryani House
+4420,Nikhil Garden
+4421,Nikhil Garden
+4422,Ganesh Garden
+4423,Big India
+4424,Ganesh Garden
+4425,Ghulenagar
+4426,Chakan Talegaon Chowk
+4427,Kondhwa Hospital
+4428,Mhashicha Gotha
+4429,Hotel Sagar
+4430,Mhashicha Gotha
+4431,Nimbalkarvasti
+4432,Pune Airport
+4433,Pune Airport
+4434,Kudale baug
+4435,Garware Bungalow
+4436,Indrayani Pul Talawade Road
+4437,Nausha maruti
+4438,Hadapsar Gadital Saswad Road
+4439,Childrens School
+4440,Kataria School
+4441,Nausha maruti
+4442,Anandnagar
+4443,Kudale baug
+4444,Brahma Hotel
+4445,Vadgaon Bridge
+4446,Gorhe Kh
+4447,Andh shala
+4448,Panchshilnagar
+4449,Gorhe Petrol Pump
+4450,K.C Thakkre School(Daruwala Pool)
+4451,Bhumkarnagar
+4452,Janta Vasahat
+4453,Maruti Mandir Talegaondabhade Road
+4454,Chandrabhaga Nagar (School)
+4455,Ganesh Mandir Pimplenilakh
+4456,Chandrabhaga Nagar (School)
+4457,Venkateshwara shala
+4458,Lodha Hospital
+4459,Warhade Phata
+4460,Oswal Bandhu Estate
+4461,Ghole Road Press
+4462,Childrens School
+4463,Dashbhuja Ganpati
+4464,Gogte shala
+4465,Dhayareshwar Mandir
+4466,Gogte shala
+4467,Walhekarwadi Corner
+4468,Dandekar Pul Corner
+4469,Icchapurti Ganesh Mandir
+4470,Janardhan Police Chowki
+4471,Pari Company
+4472,Botanical Garden
+4473,Cable Company
+4474,Ingalenagar
+4475,Tadiwala Road
+4476,Gaymukh
+4477,Green Field Society
+4478,Vanwadi Bazar
+4479,Highway Corner
+4480,Suncity
+4481,Dagadi Nagoba
+4482,Fadtarevasti
+4483,Mutton Market rangehills
+4484,Kamela
+4485,Medi Point
+4486,Vidyaniketan 6 Yerwada
+4487,Khadakwadi Phata
+4488,Kasarsai
+4489,gandhinagar
+4490,Gadikhana
+4491,Santanagar
+4492,Gurudwara Lohegaon
+4493,Sector Number
+4494,Suyash Mangal Karyalay
+4495,Shirke Company
+4496,Lohegaon Smashan bhoomi
+4497,Santanagar
+4498,Sahastrabuddhe Samadhi
+4499,Wadkarmala
+4500,Tukaram nagar
+4501,Rajguru Mahavidyalay
+4502,Vidyaniketan 5 (Bopodi)
+4503,Nagpur Chawl
+4504,Sawant Petrol Pump
+4505,Salunke Vihar
+4506,Nashik Phata
+4507,Sinhgad
+4508,Khadakwasala Dharan Corner
+4509,Ramkrushna Mangal Karyalay
+4510,Khadakwasla Samshan Bhumi
+4511,Quarter Gate
+4512,Khadakwasla Dharan Corner
+4513,Khadakwasla Smashan Bhumi
+4514,Sinhgad
+4515,Hanuman Mandir Pisoli
+4516,Pratiknagar Chowk
+4517,Prabha Tyre
+4518,Yerawada
+4519,Marunjigaon
+4520,Gajanan Maharaj Math
+4521,Vidyaniketan-1
+4522,Shivshankar Super Market
+4523,Vidyaniketan-1
+4524,K.K. Market
+4525,Gaimukh
+4526,Teen Hathi Chowk
+4527,Sastevasti
+4528,7 Loves Chowk
+4529,Kalmaadi Shala
+4530,Lucky Wajankata
+4531,Parade Ground NDA
+4532,7 Loves Chowk
+4533,Teen Hathi Chowk
+4534,Industrial Company
+4535,K.K. Market
+4536,Kondhwagate Colony Number 10
+4537,Pawarwadi Phata
+4538,Modern College Moshi
+4539,Pashan Naka
+4540,Pawarwadi Phata
+4541,Dhanori
+4542,Sadhu Vaswani Chowk
+4543,Pimplekarvasti
+4544,Gagangiri
+4545,Pawarmala
+4546,Vidyaniketan 17
+4547,Bhilarewadi Kalyan
+4548,Central Restaurant
+4549,Gagangiri
+4550,Pasalkarvasti
+4551,Renuka Swaroop School
+4552,Janwadi Corner
+4553,Ma Na Pa Nava Pul
+4554,Samrat Chowk
+4555,Guruprasad Bungalow
+4556,Jijamata Chowk
+4557,Shivbhumi Vidhyalay
+4558,Malwadi Wadgaon Mawal Road
+4559,Mohan Nagar Police Chowki
+4560,Manik Press Road
+4561,Ramnagar Corner
+4562,Potoba Mandir
+4563,Shree Bhavani Vajan Kata
+4564,Sunrise Residency
+4565,IMD Colony
+4566,Shivbhumi Vidhyalay
+4567,Bhushan Society
+4568,Samrat Chowk
+4569,Varchamala
+4570,Gavhanenagar
+4571,Auto Cluster
+4572,Auto Cluster
+4573,Pancharatna Complex
+4574,Sagar Colony
+4575,Sagar Colony
+4576,Bhagatwadi
+4577,Tapovan
+4578,BR Gholap Vidyalay
+4579,Ramnagar Colony
+4580,Jay Bhavani Nagar
+4581,Pimplekarvasti
+4582,Bhaji Market
+4583,Sant Tukaram Vidyaniketan 8
+4584,Ramnagar Colony
+4585,Anand Park
+4586,Tapovan
+4587,Patil Nagar
+4588,Anant Talkies
+4589,Batliwala Haud
+4590,Dalwe wadi
+4591,Vidhyaniketan 16 school
+4592,VadgaonMawal Corner
+4593,Dalwe wadi
+4594,Ghulenager
+4595,Poultry Farm Kandhare
+4596,Sutar Dawakhana
+4597,Kendriya Vidhyalay
+4598,Dattamandir
+4599,Hagawne Padal
+4600,Panyachi Taki Markal
+4601,Mahatma Hotel Sopanbaug
+4602,Bhargaon Industries
+4603,Moze college
+4604,Light Bill Office
+4605,Shantinagar
+4606,Dayanand Shala
+4607,Vidyaniketan 9
+4608,Gorhe Petrol Pump
+4609,Panchshilnagar
+4610,Andh shala
+4611,Vadgaon Bridge
+4612,Fursungigaon Phata
+4613,Ramnagar
+4614,Lamantaanda
+4615,Dislevasti
+4616,Vitthalnagar
+4617,Factory Road
+4618,Bhagvati Nagar Corner
+4619,Poona Poultry
+4620,Bhagvati Nagar gaon
+4621,Gajanan Maharaj Mandir Fursungi
+4622,Ratan Park
+4623,Indrayaninagar
+4624,Vishwakarma
+4625,Varvegaon
+4626,Vidhyaniketan
+4627,Walhekarwadi Corner
+4628,Nimaanvid Patti
+4629,Bhagvati nagar
+4630,Rasalwadi Phata
+4631,Jay Bhavani Nagar
+4632,Swargate Depo
+4633,Ramnagar
+4634,Jakat Naka Saswad
+4635,D Palace
+4636,om Hospital
+4637,Pravin Masala Company
+4638,Maratha Mandir
+4639,Bank of Maharashtra Baner road
+4640,Bavdhangaon
+4641,Phoenix Plaza
+4642,Gandhi Training College
+4643,Jeevannagar Hospital
+4644,Swapnaganga Nagr
+4645,Talab Company
+4646,Sunshine Society
+4647,Inam Aali
+4648,Brick Institutes
+4649,Jagdamb Undri Pisoli
+4650,PMT Chowk Bhosari
+4651,Waki Bk
+4652,Jagdamb Undri Pisoli
+4653,Gangardenagar
+4654,Brick Institutes
+4655,Gurudwara
+4656,Sunshine Society
+4657,Swapnaganga Nagri
+4658,Shree Control
+4659,Phoenix Plaza
+4660,Vijay Oil Mill
+4661,Sheti Mahamandal
+4662,Harijanvasti
+4663,MIDC Pimpri
+4664,Zenser Chowk
+4665,Blue Berry Chowk
+4666,Shubham Hotel
+4667,Durga Mata Mandir
+4668,Green Park
+4669,Durga Mata Mandir
+4670,Kholewadi Phata Vidyaniketan
+4671,Gujarwadi Phata
+4672,Vakhar Mahamandal Marketyard
+4673,Talegaon Phata
+4674,Nadar City
+4675,Talegaon Phata
+4676,Punekarvasti
+4677,Sathe Vasti Lohagaon Vadgaon shinde Road
+4678,Bharat Forge Company
+4679,Gajanan Mangal karyalay
+4680,Bangarvasti
+4681,Kirti Grapes
+4682,Kadamvasti Lonikand
+4683,Pathare Vasti Vadgaon shinde Road
+4684,Sanket Mangal Karyalay
+4685,Dagade Patil Farm
+4686,M P Bharucha Farm
+4687,Shinde vasti Vadgaon shinde Road
+4688,Jiveshwar Society
+4689,Haran tale
+4690,Midc Office
+4691,Marathwada college Vadgaon shinde Road
+4692,Bharati vidyapith Primary School
+4693,Kadamvasti Lonikand
+4694,Kamal lonce
+4695,Gavhanenagar
+4696,Gulabhari Hari vasti
+4697,Bhegdewadi
+4698,Kakade vasti No 2
+4699,Baji Khind chowk
+4700,Kakade city Vadgaon shinde Road
+4701,Shivanand Enclave Company
+4702,Z P School Vadgaon shinde
+4703,Vadgaon shinde
+4704,Sai Chowk Pashan Sus Road
+4705,Vadgaon shinde
+4706,Chavannagar
+4707,Z P School Vadgaon shinde
+4708,Kakade city Vadgaon shinde Road
+4709,Ashok Stambh
+4710,Baji Khind chowk
+4711,Badhevasti
+4712,Kakade vasti No 2
+4713,Gulabhari Hari vasti
+4714,Malwadi Wadgaon Mawal Road
+4715,Kamal lonce
+4716,Exide Battery
+4717,Bharati vidyapith Primary School
+4718,Hanuman Mandir Pisoli
+4719,Marathwada college Vadgaon shinde Road
+4720,Tathwade
+4721,Haran tale
+4722,Shinde vasti Vadgaon shinde Road
+4723,M P Bharucha Farm
+4724,Bharati Vidyapeeth Shala
+4725,Sanket Mangal Karyalay
+4726,Mandai Stand
+4727,Pathare Vasti Vadgaon shinde Road
+4728,Spicer College Press
+4729,Kirti Grapes
+4730,Dattamandir Jambhulwadi Road
+4731,Gajanan Mangal karyalay
+4732,Punawale Corner
+4733,Sathe Vasti Lohagaon Vadgaon shinde Road
+4734,Raghoba Patil Nagar
+4735,A Ward Office
+4736,Raghoba Patil Nagar
+4737,Sant Sai Chowk
+4738,Shani Mandir
+4739,Sainathnagar/Coloumbia Hospital
+4740,Bahiratwadi
+4741,Khadakwaslagaon
+4742,Sainathnagar/Coloumbia Hospital
+4743,Railway Gate Number
+4744,Rajendra Pipe Company
+4745,Pashan Naka
+4746,Shivshankar Society
+4747,Talegaon General Hospital
+4748,Alard College
+4749,Ambedkar Bridge
+4750,Nirgudigaon
+4751,Surbhi
+4752,Yashoda Niwas
+4753,Railway Crossing Ghorpadi
+4754,Sayyadnagar
+4755,Savtamali Mitra Mandal
+4756,Burdevasti
+4757,Undrigaon Shala
+4758,Tansh Society
+4759,Mahatma Gandhi Stand
+4760,Nirgudigaon
+4761,Kaman Burdevasti
+4762,Parvatigaon
+4763,Hiramata Mandir
+4764,Savtamali Mitra Manda
+4765,Kalashankar
+4766,Burdevasti
+4767,Tansh Society
+4768,Dnyaneshwari Udyan
+4769,Sanskrutik Bhavan Charholi
+4770,Kalyani Forge Mudhwa
+4771,Futira Complex
+4772,Ramnagar NDA road
+4773,Nanded City
+4774,Ramnagar NDA road
+4775,Bavdhan Police chowky
+4776,Chakan Market Yard
+4777,DSK Ranwara
+4778,Suryadatta college
+4779,Rangehills H type
+4780,Highway corner
+4781,Arihant college
+4782,Shirkevasti
+4783,Nyati society
+4784,Puranik Complex
+4785,Mhalungegaon
+4786,Bavdhan Police chowky
+4787,DSK Ranwara
+4788,Juna Pulgate
+4789,Suryadatta college
+4790,Mandvi Bk
+4791,Highway corner
+4792,Sangrun
+4793,Arihant college
+4794,Nyati society
+4795,Vartesh Flourist
+4796,Puranik Complex
+4797,Kokane Chowk
+4798,Prayagdham Hospital
+4799,Lake Town Gate Number
+4800,Mhalunge Stadium Gate
+4801,Chinchwad Station
+4802,Gaikwadvasti Shivapurgaon
+4803,Ganj Peth
+4804,Kasba Peth Police Chowky
+4805,Saibaba Mandir Materewadi
+4806,Sahilpuram
+4807,Wondercity
+4808,Trump Tower
+4809,Harinagar
+4810,Makan Hospital
+4811,Aadarshnagar Vadgaon Sheri
+4812,Shahu Chowk
+4813,Indira Smruti nagar
+4814,Trump Tower
+4815,Harinagar
+4816,Aadarshnagar Vadgaon Sheri
+4817,Century Enka Colony
+4818,Indira Smruti nagar
+4819,Ajay Niwas
+4820,Agnishamak Kendra NDA
+4821,St Arnold's Central School
+4822,St Arnold's Central School
+4823,Maheshnagar
+4824,Mental Corner
+4825,Sopanbaug
+4826,Rihe Phata
+4827,Council Hall
+4828,Rajendra Pipe Company
+4829,Saint Meera College
+4830,Vishvsuman Hotel
+4831,Council Hall
+4832,Sarkari Vishram Gruh
+4833,Vishvsuman Hotel
+4834,Bund garden petrol pump
+4835,Mayuri Mangal Karyalay
+4836,Poultry Farm Darshan
+4837,Bund garden petrol pump
+4838,Income Tax Office
+4839,Rosary School Corner
+4840,Mhalsakant College
+4841,Gadkarivasti
+4842,Samath School
+4843,Hatti Chowk
+4844,Samath School
+4845,Sutardara
+4846,Pawar Vasti Keshavnagar
+4847,Chillal Masala Company
+4848,Pawar Vasti Keshavnagar
+4849,Sutarwadi Paud Road
+4850,Ganesh Mandir Keshavnagar
+4851,Poultry Farm Rehe
+4852,Ganesh Mandir Keshavnagar
+4853,E Ward Office
+4854,Amrai
+4855,Indira Vasahat
+4856,Sidharthnagar
+4857,Dhorevasti
+4858,Thakarwadi
+4859,Pargewadi
+4860,Muncipal Dawakhana
+4861,Malwadi
+4862,Inamdarvasti Rahutwadi
+4863,Patil Wada
+4864,Borkarvasti
+4865,Vadachi wadi
+4866,Daak Bungalow
+4867,Shelarwadi
+4868,Shinde Chhatri
+4869,Panyachi Taki Navi Sangvi
+4870,Trimurti Garden
+4871,Shelarwadi
+4872,Sastevasti
+4873,Vadachi wadi
+4874,Elpro Company
+4875,Patil Wada
+4876,Malwadi
+4877,Jalindarbaug Wadki
+4878,Pargewadi
+4879,Pride Ashiyana Society
+4880,Simla Office
+4881,Thakarwadi
+4882,Sindh Colony Baner Road
+4883,Sheetal Petrol Pump
+4884,Gaurdroom
+4885,Kalamsheth
+4886,Satyananad Hospital
+4887,Maruti Mandir Talegaondabhade Road
+4888,Kondhwa
+4889,Bhaji Mandai Hadapsar
+4890,Rajivgandhi Hospital/Yerwada
+4891,Bhondvevasti Ravet
+4892,Urdu Vidhyaniketan School no.12
+4893,Spine Road Chowk
+4894,Urdu Vidhyaniketan School no.12
+4895,Rajivgandhi Hospital/Yerwada
+4896,Shelkevasti
+4897,Kondhwa
+4898,Talegaon General Hospital
+4899,Satyananad Hospital
+4900,Fatima Nagar Wanowrie
+4901,Sheetal Petrol Pump
+4902,Ganeshnagar Ambegaon Pathar
+4903,Gokhalenagar Vasahat
+4904,Bitwise Tower
+4905,Shreenagar
+4906,Bitwise Tower
+4907,Ganj Peth Police Chowky
+4908,Dapodi
+4909,Dapodi
+4910,Blue Diamond Hotel
+4911,Phugewadi
+4912,Carline Company
+4913,Ma Na Pa School Phugewadi
+4914,Shivnagar
+4915,Atlas Copco
+4916,Kasarwadi
+4917,Nahisk Phata
+4918,Mundhwagaon
+4919,Vallabh Nagar
+4920,Nishigandha Farm
+4921,H. A. Company
+4922,Kharalwadi
+4923,Alankar Police Chowky
+4924,Ambedkarnagar Pimplegurav
+4925,PCMC Bhavan
+4926,Ahilyadevi Holkar Morwadi
+4927,Jawalgaon
+4928,Empire Estate
+4929,Waghere Heights
+4930,Chinchwad Station
+4931,ST Stand Paud
+4932,Jayashree Talkies
+4933,Kalbhor Nagar
+4934,Seeta Anusya Niwas
+4935,Akurdi
+4936,Model Colony
+4937,Bajaj Auto
+4938,Phulenagar Landewadi
+4939,Nigdi
+4940,Tajnevasti
+4941,Phugewadi
+4942,Sahwas Society
+4943,Ma Na Pa School Phugewadi
+4944,Atlas Copco
+4945,Kalpataru Society Koregaonpark
+4946,Kasarwadi
+4947,Lakshminagar Galli Number
+4948,Nahisk Phata
+4949,Mandai
+4950,Pashan Tale
+4951,Vallabh Nagar
+4952,H. A. Company
+4953,Lonigaon
+4954,Kharalwadi
+4955,Sangvi College
+4956,Ganjavewadi
+4957,PCMC Bhavan
+4958,Ahilyadevi Holkar Morwadi
+4959,Kumbare Park
+4960,Empire Estate
+4961,Chinchwad Station
+4962,Sangamwadi Phata
+4963,Jayashree Talkies
+4964,Kalbhor Nagar
+4965,Abhinav College
+4966,Akurdi
+4967,Alard College
+4968,Bajaj Auto
+4969,Hingane
+4970,Nigdi
+4971,Yadavvasti Naigaon Chaufula
+4972,UP Hotel
+4973,Jadhavwadi Phata Chikhali
+4974,Kamthadi
+4975,Punawale corner
+4976,Kamthadi
+4977,Khutwad Vasti
+4978,Khutwad Vasti
+4979,ARDL Office
+4980,Harichandri
+4981,Harichandri
+4982,Kapurhoal
+4983,Saswad Road Corner
+4984,Satav Park
+4985,Kapurhoal
+4986,Indu lowns
+4987,Sonarwadi Phata
+4988,Vishv Vihar Society
+4989,Jaibhavani Warehousing
+4990,Jambhulwadi
+4991,Sinhgad Collage
+4992,Krushna Mandir Nigdi
+4993,Sinhgad Collage
+4994,wahilenagar
+4995,Nere Phata
+4996,Saurabh Palase
+4997,Railway Crossing Manjri
+4998,Vishv Vihar Society
+4999,Philips
+5000,Indu lowns
+5001,Kodhanpur Phata
+5002,Dudulgaon Phata
+5003,Lake Town Gate Number
+5004,Vahile Nagar
+5005,Tapkir Nagar
+5006,Nageshwar Vidyalay
+5007,Ambegaon Phata
+5008,Dudulgaon Jakat Naka
+5009,Anand Ashram
+5010,Tapkir Nagar
+5011,Dudulgaon Phata
+5012,Nilayam Talkies
+5013,Era Bekri
+5014,Choundhe Shala
+5015,Balewadi Phata
+5016,Baburao Genuji Balwadkar Shala
+5017,Sai Chowk
+5018,Mitcon
+5019,Sachapir Street
+5020,Mitcon
+5021,Tukainagar
+5022,Sai Chowk
+5023,Pimplegurav Ma Na Pa Shala
+5024,Baburao Genuji Balwadkar Shala
+5025,B Sub Depot
+5026,Era Bekri
+5027,Swapnnagari
+5028,Damini lowns
+5029,Saipuram Corner
+5030,NDA 10 No Gate
+5031,NDA 10 No Gate Bus Sthanak
+5032,Alandi Phata
+5033,NDA 10 No Gate Bus Sthanak
+5034,Damini lowns
+5035,Bhatnagar
+5036,NDA 10 No Gate
+5037,Milind Nagar
+5038,Vadachivasti
+5039,Milind Nagar
+5040,IAT Gate
+5041,Manjuba Vasahat
+5042,Tower Line
+5043,Chintamani Praveshdwar
+5044,Shahunagar
+5045,Prasun Dham
+5046,Prasun Dham
+5047,Samarth carin Society
+5048,Harpalevasti Fursungi
+5049,Pachane Phata
+5050,Samarth carin Society
+5051,Ganga Oshiyan Sociey
+5052,Vetalbaba Chowk
+5053,Ganga Oshiyan Sociey
+5054,Narhegaon
+5055,Pawarnagar 2 Chowk
+5056,Shivaji Maharaj Putla Marketyard
+5057,Pawarnagar 2 Chowk
+5058,Ingale Colony
+5059,Swis County
+5060,Swis County
+5061,Azadnagar Kothrud
+5062,Thergaon Gaothan
+5063,Bahuligaon
+5064,Thergaon Gaothan
+5065,Khed Shivapur
+5066,Rashemi Company
+5067,Ganpati Chowk Laxmi Road
+5068,Kharadi Police Chowki
+5069,Kacharevasti
+5070,Kharadi Police Chowki
+5071,Holkar Pul Corner
+5072,World Trade Center
+5073,World Trade Center
+5074,Lokmanyanagar
+5075,Vakhar Mahamandal Bhosari
+5076,Eon Chowk
+5077,Eon Chowk
+5078,Forest County
+5079,Parvati Payatha
+5080,Forest County
+5081,Sai Mandir
+5082,Mio Plaza Chowk
+5083,Vitthalwadi Jakat Naka
+5084,Mio Plaza Chowk
+5085,Malawalinagar
+5086,Tulja Bhawani Nagar
+5087,Tulja Bhawani Nagar
+5088,Ganeshnagar Bopkhel
+5089,Sakore Nagar Corner
+5090,Sakore Nagar Corner
+5091,Markal Vajan kata
+5092,Gera Society
+5093,Gera Society
+5094,KSB Chowk
+5095,Eon Phase 2
+5096,Tapkirnagar Rahatni
+5097,Bhikardas Maruti
+5098,Zpayar Marvhal Society
+5099,Anant Talkies
+5100,Zpayar Marvhal Society
+5101,Annasaheb Magar Stadium
+5102,Dhole Patil Collage Chowk
+5103,Kalubai Mandir Ramtekdi
+5104,Dhole Patil Collage
+5105,Dhole Patil Collage
+5106,Govind Garden Chowk
+5107,Ganesh Mandir
+5108,Sopanbaug
+5109,Mundhwagaon Corner
+5110,Saswad Bus Stand
+5111,Aaple Ghar
+5112,Aditya Garden City
+5113,Jakat Naka Saswad
+5114,Ahilyadevi School
+5115,Bhairavnath Karyalay
+5116,Bapurao Smarak
+5117,Bhairavnath Karyalay
+5118,Jilha Parishad Shala Chande
+5119,Tahshil Karyalay
+5120,Tahshil Karyalay
+5121,Paud Phata Karve Road
+5122,Jivhala Vrudhashram
+5123,Jivhala Vrudhashram
+5124,Sahwas Society
+5125,Shate Wasti Narayanpur Road
+5126,Shate Wasti Narayanpur Road
+5127,Kendriya Vidyalay NDA
+5128,Visava Pimpran
+5129,Wakvasti
+5130,Yashwantnagar Rangehills
+5131,Visava Pimpran
+5132,Mhalunge
+5133,Petrol Pump Narayanpur Road
+5134,Petrol Pump Narayanpur Road
+5135,Prachi Apartment
+5136,Rahatani Phata
+5137,Umaji Naik Highschool
+5138,Umaji Naik Highschool
+5139,Gaikwad Wasti Narayanpur Road
+5140,Nirgil
+5141,Gaikwad Wasti Narayanpur Road
+5142,Bhivdi
+5143,Pernegaon
+5144,Bhivdi
+5145,Golewadi
+5146,Indrayani Karyalay Navlakh Umbre Road
+5147,Shree Krushn Mandir Narayanpur Road
+5148,Shree Krushn Mandir Narayanpur Road
+5149,Shubham Society Warje
+5150,Patil Wasti Narayanpur Road
+5151,Jambkarvasti
+5152,Ganpati Matha
+5153,Patil Wasti Narayanpur Road
+5154,Bhare Phata
+5155,Pokhar Phata
+5156,Boratevasti Nasik Road
+5157,Pokhar Phata
+5158,Purandhar Phata
+5159,Purandhar Phata
+5160,Gulnur Farm
+5161,Narayanpur
+5162,Nigde Phata
+5163,Narayanpur
+5164,Chakankarmala
+5165,Sasane Nagar Corner
+5166,Janakbaba Darga
+5167,Binawat Township
+5168,Sasane Hingane Township
+5169,Nirmal Township
+5170,Runwal Society
+5171,Ganesh Mandir
+5172,Kaleborate Nagar
+5173,CWPRS Gate Number
+5174,Omkar Colony
+5175,Indrayani Karyalay
+5176,Talwade Jakat Naka
+5177,Yogeshwar Colony
+5178,Atulnagar
+5179,Tukai Darshan
+5180,Sasane Nagar Corner
+5181,Telco Colony
+5182,Binawat Township
+5183,Bharati Vidyapeeth Shala
+5184,Sasane Hingane Township
+5185,Ganga Ocean Park
+5186,Nirmal Township
+5187,MM School
+5188,Ganesh Mandir
+5189,Tarwadevasti
+5190,Kaleborate Nagar
+5191,Kadamvasti Loni
+5192,Omkar Colony
+5193,Ajay Niwas
+5194,Indrayani Karyalay
+5195,Yogeshwar Colony
+5196,Bijalinagar Corner
+5197,Tukai Darshan
+5198,Mukai Chowk
+5199,Pancharatna Complex
+5200,Rajgurunagar Petrol Pump
+5201,Pimplenilakh
+5202,Magarpatta Dawakhana
+5203,Gangadham
+5204,Spicer College Press
+5205,Prayagdham Hospital
+5206,Racecourse
+5207,Malwadi Naigaon
+5208,Gopi Chal
+5209,Deshmukhvasti
+5210,Kalamjainagar
+5211,Pimpri Court
+5212,Ghavtenagar
+5213,Rangehills Circle
+5214,Dongar Matha
+5215,MatoShree
+5216,Mount Carmel School
+5217,Bhegdewadi Phata
+5218,Wireless Office
+5219,Lonkarnagar
+5220,Tirang Dhaba
+5221,Nandoshigaon
+5222,Chandannagar
+5223,Parvati Gaon
+5224,Punawale corner
+5225,Vitthalwadi Dehu
+5226,Rama Bistake Park
+5227,Rajgurunagar Petrol Pump
+5228,Gondhalenagar
+5229,Ashok Talkies
+5230,Lonigaon Phata
+5231,Vadarwadi
+5232,Munjabavasti
+5233,Newalevasti
+5234,Vitthalwadi Nagar Road
+5235,Appughar Corner
+5236,Akshay Sanshree
+5237,Amarjai Mandir
+5238,Buddha Vihar Dapodi
+5239,Harijanvasti
+5240,Moze Vidyalay Alandi Road
+5241,Satavnagar
+5242,Kateshwarwadi Phata
+5243,Kholevasti
+5244,Exide Battery
+5245,Rautwadi
+5246,Charholi Phata
+5247,DP Road Corner
+5248,ST Stand Saswad
+5249,Kalyangaon
+5250,Rashemi Company
+5251,Vanwadi Corner
+5252,Udyognagar
+5253,Kakadevasti
+5254,Kakadevasti
+5255,Tirang Dhaba
+5256,Ganga Village
+5257,Finolex
+5258,Maruti Mandir Sambhajinagar
+5259,Splender Country Club Gate Kramank
+5260,Shantiban
+5261,Vitbhatti Perne
+5262,Paramhansnagar
+5263,Bhegde Lawns
+5264,Ghata Khali
+5265,Kasar Amboli
+5266,Kemsewadi Shala
+5267,Materewadi
+5268,Rajaram Gas
+5269,Suskhind Phata
+5270,Shindenagar Bawdhan
+5271,Sadesatranali
+5272,Bhilarewadi
+5273,Holkarwadi
+5274,Indrayani College
+5275,Pachane Phata
+5276,Gokulnagar Katraj Kondhwa Road
+5277,Padalgharwadi
+5278,Police Chowky
+5279,Shindenagar Mharunji
+5280,Ranubaimala
+5281,SNDT College
+5282,Girme Park
+5283,Khadi Machine Gujarwadi
+5284,Ganeshnagari
+5285,Kalyaninagar Pul
+5286,Smashan Bhumi Rasta
+5287,Kanda Engineering Company
+5288,Vitbhatti Dongar
+5289,Kakdevasti
+5290,Khadki Post
+5291,Vitbhatti Pashan
+5292,Shivpushpak Park
+5293,Susgaon
+5294,Nilkantheshwar Phata
+5295,Telco Company
+5296,Parkhi Madhyamik Vidyalay
+5297,Electronic Sadan
+5298,Na Ta Wadi
+5299,Pashan Gate
+5300,Khadi Machine Hinjawadi Road
+5301,Raja Bungalow
+5302,Stage Kramank 7
+5303,NIBM Road
+5304,Tulapur
+5305,Chaufula
+5306,Dadachi Padal
+5307,Panyachi Taki Lohgaon
+5308,Pimpri
+5309,Marnewadi
+5310,Mugawade
+5311,Gajanan Maharaj Mandir Alandi Road
+5312,Shelarvasti Talawade
+5313,Kharabwadi
+5314,Vasundhara Lawns
+5315,Juna Motor Stand
+5316,Bhandari Hospital
+5317,Bahirwade Kridangan
+5318,Balaji Park
+5319,Om Ayran Chowk
+5320,Talyacha Matha
+5321,Vajewadi Phata
+5322,Tata HoneyWell Company
+5323,Dandekar Pul
+5324,ITI Saswad Road
+5325,Kirloskar
+5326,PMT Chowk Bhosari
+5327,Sawtamali Mandir
+5328,Vitbhatti Prayagdham
+5329,St Meera College
+5330,Manik Colony
+5331,Tapkirnagar Kalewadi
+5332,Dhere Bungalow
+5333,Sai Washing Center
+5334,DP Road
+5335,Bhegdewadi Phata
+5336,Bhukum
+5337,Pernegaon
+5338,Ganeshmala
+5339,Mandai Stand
+5340,Vasundhara Lawns
+5341,Bhugaon
+5342,Kohima line
+5343,Ma Na Pa Shala Wakad
+5344,Pashan Naka
+5345,Vitthal Mandir Shreeman Society
+5346,Sasewadi Phata
+5347,Pahadi Dawakhana
+5348,Khanapur
+5349,North Len
+5350,Robbi Farm
+5351,Dhondiba Sutar Bal Udyan
+5352,Rakshak Chowk
+5353,Ramwadi Jakat Naka
+5354,Kukut Palan Kendra
+5355,Pandavnagar Pashan
+5356,Harpalevasti Nhavi Sandas Road
+5357,Dange Chowk
+5358,Parade Ground NDA
+5359,Rama Bistake Park
+5360,Shasakiya vasatigruha
+5361,MIDC Circle
+5362,Krushna Mandir Suncity
+5363,Dhankawadi
+5364,Cable Company
+5365,Colony Number 10
+5366,Avahalwadi
+5367,Ghodyachi Paga
+5368,Suskhind Phata
+5369,Matalwadi Bhugaon
+5370,Tapkirnagar Moshi Road
+5371,Jain Mandir Guruwar Peth
+5372,Krushna Mandir Dehu Road
+5373,Ganpati Matha
+5374,BR Gholap Vidyalay
+5375,Tadi Gutta
+5376,Abhiman Shree Society
+5377,Gujarwadi
+5378,Nilayam Talkies
+5379,Benkarvasti
+5380,Pegra Gron Company
+5381,Dattamandir Shivapurgaon
+5382,Khadakwaslagaon
+5383,Yashoda Niwas
+5384,Vitbhatti Wakad
+5385,Farm House Mulkhed
+5386,Ambedkar Putala Pimpri
+5387,Bhairoba Nala Police Chowky
+5388,Mahatma Gandhi Stand
+5389,Mahatma gandhi School
+5390,Narhegaon
+5391,Railway Crossing Ghorpadi
+5392,Raja Bungalow
+5393,Tapkirvasti Susgaon
+5394,Atlas Company
+5395,Green Field Society
+5396,Poultry Farm Agalambe
+5397,Marketyard
+5398,Kannda Lasun Sanshodhan Kendra
+5399,Khed Shivapur
+5400,Jaidevnagar
+5401,Mile Dagad Kramank 10
+5402,VIT College Hostel
+5403,Panchwati
+5404,pumpung Station Medi Point
+5405,Vitthalwadi Phata
+5406,Mhalunge Phata Balewadi
+5407,Sonavane Hospital
+5408,Jyoti Ashram
+5409,15 August Chowk
+5410,Agalambegaon
+5411,Birla Hospital
+5412,Maruti Mandir Talegaondabhade Road
+5413,Shahunagar Ganesh Mandir
+5414,Oswal Bhandhu Estate
+5415,Poultry Farm Rehe
+5416,Waghere Heights
+5417,Wadkarmala
+5418,Wakad Phata
+5419,Prathamik Arogya Kendra
+5420,Savarkar Bhavan
+5421,Vasantdada Sugar Institute
+5422,Mahatma Gandhi Stand
+5423,Alankar Police Chowky
+5424,Suvarna Fabricators
+5425,Gaikwadvasti Nandegaon
+5426,Aaimata Mandir
+5427,Ahire Gate
+5428,Loyala Highschool
+5429,Vitbhatti Shivtarwadi
+5430,Sanewadi
+5431,Shankar Darshan Society
+5432,Bham
+5433,Malwadi Jambe Road
+5434,Undrigaon
+5435,Rautvasti
+5436,Jog Prashala
+5437,Talathi Chowk
+5438,Rakshalekha Society
+5439,Gulabnagar
+5440,Indrayani Hotel
+5441,E Ward Office
+5442,Maharashtra Housing Board Samtanagar
+5443,Shivapurbaug
+5444,Highway Corner
+5445,Raikarmala
+5446,Warje Malwadi
+5447,Jakat Naka Pisoli
+5448,Shivaji Chowk Hinjawadi
+5449,Inland Containors
+5450,Dehugaon
+5451,C Prabhag Karyalay
+5452,Dattanagar Alandi Road
+5453,ST Vibhagiya Karyalay
+5454,Radha Hotel
+5455,Avinash Mangal Karyalay
+5456,Bhekrainagar
+5457,Mhalunge Corner
+5458,Lonkarnagar
+5459,Garage
+5460,Military Hospital Vanawadi
+5461,Mohol Vidyalay
+5462,Quality Bakery
+5463,Jawalkarnagar
+5464,Akshay Sanshree
+5465,Ankush Chowk
+5466,Baner Phata
+5467,Kalpataru Society Koregaonpark
+5468,Jain Mandir Dehugaon
+5469,Shirkevasti
+5470,Bijalinagar Corner
+5471,Mount Carmel School
+5472,Fursungigaon Phata
+5473,Maharashtra Housing Board Janwadi
+5474,Pasalkarvasti
+5475,Matoshree Garden
+5476,Lamanvasti
+5477,Sai Chowk Navisangvi
+5478,Parvati Gaon
+5479,A Ward Office
+5480,Dharmaraj Chowk
+5481,Pinok Garden
+5482,Poultry Farm Sorthapwadi
+5483,Rihe Phata
+5484,Vajewadi Phata
+5485,Kasurbaug
+5486,Patrya Maruti
+5487,Maharashtra Housing Board Janwadi
+5488,Shitolemala
+5489,Hawaldarvasti
+5490,Boratevasti Chikhali Road
+5491,Cipla Center
+5492,kohima line
+5493,PK Chowk
+5494,Chandani Chowk
+5495,","
+5496,Vidhyapeeth Press
+5497,Moshigaon
+5498,Dapodi
+5499,Hirabaug
+5500,Sadhwi Kendra
+5501,Pashan Tank Rasta
+5502,Sant Namdev Vidyalay
+5503,Ahiregaon Phata
+5504,Avinash Mangal Karyalay
+5505,Sanakta Company
+5506,Waghjai Mandir
+5507,Mate Pat
+5508,Bijalinagar Corner
+5509,Date Engineering
+5510,Karnatak Highschool
+5511,Mohannagar Dhankawadi
+5512,Undrigaon Shala
+5513,Dattamandir Paud Road
+5514,Swarajnagari
+5515,Kawadenagar
+5516,Kalwad
+5517,Kudalwadi Corner
+5518,Stage Kramank 6
+5519,NCL Colony
+5520,Samarth Vidyalay
+5521,Aswee Trading Company
+5522,Gangadham Corner
